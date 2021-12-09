@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(O) 1.2 Card Application"
-    id="id-e15865a87d114dcbac255e1ee0ef3e8a">
+    id="id-e15865a87d114dcbac255e1ee0ef3e8a"
+    documentation="Application management">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-09df0d14934c45798400b2c242dddd5e">

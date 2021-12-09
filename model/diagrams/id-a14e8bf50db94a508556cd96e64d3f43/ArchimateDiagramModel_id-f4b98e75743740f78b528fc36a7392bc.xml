@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(O) 1.1 Settings"
-    id="id-f4b98e75743740f78b528fc36a7392bc">
+    id="id-f4b98e75743740f78b528fc36a7392bc"
+    documentation="Functionality related to CMS configuration">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-99d60223a92e4e24adfaef5745431bb1">
