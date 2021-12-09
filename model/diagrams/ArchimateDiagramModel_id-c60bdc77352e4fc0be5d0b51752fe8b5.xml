@@ -1,6 +1,23 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1. Overview"
     id="id-c60bdc77352e4fc0be5d0b51752fe8b5"
     documentation="CMS Value Stream "
-    viewpoint="value_stream"/>
+    viewpoint="value_stream">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bc6ec9fbd8684ac0a5a3c0289cf6f415">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="30"
+        y="20"
+        width="671"
+        height="231"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-991a8baf31754def8deb87565d75398b.xml#id-991a8baf31754def8deb87565d75398b"/>
+  </children>
+</archimate:ArchimateDiagramModel>
