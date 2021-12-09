@@ -111,6 +111,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-e5e4950fdc1144a49151d6f7b1e106fb.xml#id-e5e4950fdc1144a49151d6f7b1e106fb"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1ff0336e4c924940b773dbadf32db3cd"
+        source="id-d8817b774a8b423ca6fad9e8d8560114"
+        target="id-a264d3ed671e42199362be4068054a38">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-f5e29333593c4d9a8670684fe4845d79.xml#id-f5e29333593c4d9a8670684fe4845d79"/>
+    </sourceConnections>
     <bounds
         x="50"
         y="30"
@@ -243,6 +252,15 @@
       <features
           name="gradient"
           value="1"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-126003c8eb6e4468bdbf0a89cd03b0c5"
+          source="id-81ddd99d980040169771289b62b43baa"
+          target="id-a264d3ed671e42199362be4068054a38">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-a93b758345d140198b9fb95d4d6d981c.xml#id-a93b758345d140198b9fb95d4d6d981c"/>
+      </sourceConnections>
       <bounds
           x="270"
           y="420"
@@ -434,6 +452,24 @@
           xsi:type="archimate:ValueStream"
           href="ValueStream_id-00d18148343948f59a7cc051620aa773.xml#id-00d18148343948f59a7cc051620aa773"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a264d3ed671e42199362be4068054a38"
+        targetConnections="id-1ff0336e4c924940b773dbadf32db3cd id-126003c8eb6e4468bdbf0a89cd03b0c5"
+        textPosition="1"
+        type="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          x="490"
+          y="420"
+          width="191"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ValueStream"
+          href="ValueStream_id-f386b29d3dd248478d418b21ef030a1d.xml#id-f386b29d3dd248478d418b21ef030a1d"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-f09af4224ba1477e92830f97acf542b8.xml#id-f09af4224ba1477e92830f97acf542b8"/>
@@ -441,7 +477,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-6a88ac8cc60b45dfa0a884c5f0ca1f97"
-      name="Vistas"
+      name="Views"
       textAlignment="1"
       fillColor="#eaedef">
     <features
