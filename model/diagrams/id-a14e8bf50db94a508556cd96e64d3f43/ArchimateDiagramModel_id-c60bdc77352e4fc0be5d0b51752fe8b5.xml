@@ -515,4 +515,42 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-c7025f2d9151481abc444f9802651945.xml#id-c7025f2d9151481abc444f9802651945"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-70acc1704d734195a9d12611de6c898c"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value="Statements"/>
+    <bounds
+        x="260"
+        y="560"
+        width="201"
+        height="31"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-a6609c0d95f1433fa433ddb67bfa7bae.xml#id-a6609c0d95f1433fa433ddb67bfa7bae"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-635dc0298dda401eb1805604f2390fad"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value="Payments"/>
+    <bounds
+        x="260"
+        y="600"
+        width="201"
+        height="31"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-5fc13fa5b5c24194a484ecfac27a84ca.xml#id-5fc13fa5b5c24194a484ecfac27a84ca"/>
+  </children>
 </archimate:ArchimateDiagramModel>
