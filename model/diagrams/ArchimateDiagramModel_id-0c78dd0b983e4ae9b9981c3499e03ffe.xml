@@ -32,7 +32,23 @@
         x="90"
         y="110"
         width="911"
-        height="191"/>
+        height="101"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-2c9cbc7c24344430b9e9d22831d5ea2a"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          x="20"
+          y="30"
+          width="861"
+          height="41"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-c60bdc77352e4fc0be5d0b51752fe8b5.xml#id-c60bdc77352e4fc0be5d0b51752fe8b5"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-32ebd80ac085436b87d0478009cf3303.xml#id-32ebd80ac085436b87d0478009cf3303"/>
