@@ -41,7 +41,7 @@
     <bounds
         x="30"
         y="20"
-        width="521"
+        width="671"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -62,9 +62,9 @@
             href="ServingRelationship_id-90a04498fdd64fc9bbd6181fe484793c.xml#id-90a04498fdd64fc9bbd6181fe484793c"/>
       </sourceConnections>
       <bounds
-          x="40"
+          x="20"
           y="40"
-          width="120"
+          width="201"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -89,9 +89,9 @@
             href="ServingRelationship_id-9002d19f9c9e4315b58f509662be8e5f.xml#id-9002d19f9c9e4315b58f509662be8e5f"/>
       </sourceConnections>
       <bounds
-          x="190"
+          x="240"
           y="40"
-          width="120"
+          width="201"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -107,9 +107,9 @@
           name="gradient"
           value="1"/>
       <bounds
-          x="360"
+          x="450"
           y="40"
-          width="120"
+          width="201"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -128,7 +128,7 @@
     <bounds
         x="30"
         y="160"
-        width="521"
+        width="671"
         height="171"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -143,7 +143,7 @@
     <bounds
         x="30"
         y="360"
-        width="521"
+        width="671"
         height="161"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -159,7 +159,7 @@
     <bounds
         x="30"
         y="550"
-        width="518"
+        width="668"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -175,7 +175,7 @@
     <bounds
         x="30"
         y="630"
-        width="521"
+        width="671"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -191,7 +191,7 @@
     <bounds
         x="30"
         y="710"
-        width="521"
+        width="671"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -207,7 +207,7 @@
     <bounds
         x="30"
         y="780"
-        width="521"
+        width="671"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -223,7 +223,7 @@
     <bounds
         x="30"
         y="850"
-        width="521"
+        width="671"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -239,7 +239,7 @@
     <bounds
         x="30"
         y="920"
-        width="521"
+        width="671"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -255,7 +255,7 @@
     <bounds
         x="30"
         y="990"
-        width="521"
+        width="671"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
