@@ -48,6 +48,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-300362204b174664b0a4cdf8571fb97d"
+      fillColor="#feffff"
       imagePath="images/_Ic2hgFnAEeyNC9B01ZQmvA.png"
       imagePosition="9">
     <features

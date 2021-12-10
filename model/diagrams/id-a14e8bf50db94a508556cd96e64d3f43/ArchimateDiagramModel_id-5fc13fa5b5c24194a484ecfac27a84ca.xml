@@ -75,6 +75,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-c31da22bd3dd465983eb0a3f9482cc2b"
+      fillColor="#feffff"
       imagePath="images/_Ic2hgFnAEeyNC9B01ZQmvA.png"
       imagePosition="9">
     <features
