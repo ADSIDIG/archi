@@ -47,8 +47,8 @@
           href="CompositionRelationship_id-911898b9ef584167995ed3d9ad99198a.xml#id-911898b9ef584167995ed3d9ad99198a"/>
     </sourceConnections>
     <bounds
-        x="30"
-        y="30"
+        x="70"
+        y="140"
         width="861"
         height="151"/>
     <children
@@ -167,12 +167,206 @@
         name="labelExpression"
         value=" "/>
     <bounds
-        x="30"
-        y="190"
+        x="20"
+        y="310"
         width="31"
         height="31"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-c60bdc77352e4fc0be5d0b51752fe8b5.xml#id-c60bdc77352e4fc0be5d0b51752fe8b5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-be65122721aa41f1a858c76631dc63e8"
+      font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
+      content="MOCA CMS - Overview "
+      textPosition="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value="$model{property:ProductName} &#xA;$view{name}"/>
+    <bounds
+        x="20"
+        y="20"
+        width="961"
+        height="41"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bfc7ae601fd5465cadbcc903eecf6af2"
+      font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
+      textAlignment="4"
+      content="Project :"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="20"
+        y="60"
+        width="131"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6140a70a8fca45bcb6f40f183dbc5c81"
+      content="CMS - Specification"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value="$model{property:ProjectName}"/>
+    <bounds
+        x="150"
+        y="60"
+        width="231"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-712e278289484ca8899972441ceefac2"
+      font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
+      textAlignment="4"
+      content="Date :"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="380"
+        y="60"
+        width="131"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5ec69f5acc664f048fb2a4f1ac39e6a0"
+      content="CMS - Specification"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value="$model{property:UpdateDate}"/>
+    <bounds
+        x="510"
+        y="60"
+        width="171"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3fca157ea70744dda6cbc27d417287ad"
+      font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
+      textAlignment="4"
+      content="Version :"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="680"
+        y="60"
+        width="131"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b43a3e9860bd41ac86bbd68f77ed3132"
+      content="1.0"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value="$model{property:DocumentationVersion}"/>
+    <bounds
+        x="810"
+        y="60"
+        width="171"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e5fd3c3f531541fa96a9abb57eec9ec2"
+      font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
+      textAlignment="4"
+      content="Diagram :"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="20"
+        y="90"
+        width="131"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a7673b8b9ae64ae18598262434d67404"
+      content="CMS Value Stream View"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value="$view{documentation}"/>
+    <bounds
+        x="150"
+        y="90"
+        width="531"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4963c7b7762644849c5da5804698c454"
+      font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
+      textAlignment="4"
+      content="Author :"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="680"
+        y="90"
+        width="131"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-609449566642469eb58511570365b759"
+      content="ADSI Architecture"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value="$model{property:Author}"/>
+    <bounds
+        x="810"
+        y="90"
+        width="171"
+        height="31"/>
   </children>
 </archimate:ArchimateDiagramModel>
