@@ -734,9 +734,9 @@
         value="  "/>
     <bounds
         x="20"
-        y="490"
-        width="41"
-        height="41"/>
+        y="660"
+        width="31"
+        height="31"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-0c78dd0b983e4ae9b9981c3499e03ffe.xml#id-0c78dd0b983e4ae9b9981c3499e03ffe"/>
