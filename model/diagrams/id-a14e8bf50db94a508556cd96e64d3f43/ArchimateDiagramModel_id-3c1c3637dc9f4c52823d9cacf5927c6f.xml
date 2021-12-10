@@ -72,4 +72,24 @@
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-bca9bcd51a87423e9248205d26f74a68.xml#id-bca9bcd51a87423e9248205d26f74a68"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-45b4eabad45b4e9fa8115a202208dc2e"
+      imagePath="images/_Ic2hgFnAEeyNC9B01ZQmvA.png"
+      imagePosition="9">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="30"
+        y="180"
+        width="31"
+        height="31"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-c60bdc77352e4fc0be5d0b51752fe8b5.xml#id-c60bdc77352e4fc0be5d0b51752fe8b5"/>
+  </children>
 </archimate:ArchimateDiagramModel>

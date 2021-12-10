@@ -1,50 +1,50 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(O) 1.9 Compliance"
-    id="id-ca0995ff6f8048aebdcd36b6eaf4e9d5">
+    name="(O) 1.11 Rewards"
+    id="id-a3be09c560ab4a42a4e9e1289580b3aa">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4fbe8c63022b4e269affbadb4e4340e3">
+      id="id-728aa34d46cc41ec927524dea234bb0a">
     <features
         name="gradient"
         value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-827305b5a24a4b058d54057f855746ee"
-        source="id-4fbe8c63022b4e269affbadb4e4340e3"
-        target="id-9386ebdf57e44032b41ee8a1432be44a">
+        id="id-46f9799d8e584651b7821a6ef9a18fe4"
+        source="id-728aa34d46cc41ec927524dea234bb0a"
+        target="id-a23081d3e4f54b03bb2198243fc3289c">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-fc62de363164488996a7a6904ad2363e.xml#id-fc62de363164488996a7a6904ad2363e"/>
+          href="CompositionRelationship_id-a5d1fc67837d4d6b9590971109596dfd.xml#id-a5d1fc67837d4d6b9590971109596dfd"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-85209b8aacd44689a70a1b4357d010bd"
-        source="id-4fbe8c63022b4e269affbadb4e4340e3"
-        target="id-c23eabaab9204200be136c628c7ffca1">
+        id="id-a5bfb7ef57b940999b65eb77d5823354"
+        source="id-728aa34d46cc41ec927524dea234bb0a"
+        target="id-b340c21e93de41f7b3229f98e0ffb5f5">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-65fc97e640cd4dd68e0e0db7850da4fb.xml#id-65fc97e640cd4dd68e0e0db7850da4fb"/>
+          href="CompositionRelationship_id-f9136507592a463490ac6fcecab96b87.xml#id-f9136507592a463490ac6fcecab96b87"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-6cebafc170204764a1dbaf5be4ec8494"
-        source="id-4fbe8c63022b4e269affbadb4e4340e3"
-        target="id-6eae4ae3d3c8499b914406090fca48d5">
+        id="id-4640e6d32c134b289f05bc7bbba0650d"
+        source="id-728aa34d46cc41ec927524dea234bb0a"
+        target="id-04bbdfcbbe9244b4ace254b3cc53c557">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-9ff6a8c795b74feabd9b72f104b402b2.xml#id-9ff6a8c795b74feabd9b72f104b402b2"/>
+          href="CompositionRelationship_id-08b3adf534d94c8199ece1b59b40b87f.xml#id-08b3adf534d94c8199ece1b59b40b87f"/>
     </sourceConnections>
     <bounds
         x="30"
         y="30"
-        width="701"
-        height="171"/>
+        width="691"
+        height="131"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-9386ebdf57e44032b41ee8a1432be44a"
-        targetConnections="id-827305b5a24a4b058d54057f855746ee"
+        id="id-a23081d3e4f54b03bb2198243fc3289c"
+        targetConnections="id-46f9799d8e584651b7821a6ef9a18fe4"
         textPosition="1"
         type="1">
       <features
@@ -52,56 +52,56 @@
           value="1"/>
       <bounds
           x="30"
-          y="50"
-          width="201"
+          y="40"
+          width="181"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
-          href="ValueStream_id-49966c7c112244389576a3beaf01c318.xml#id-49966c7c112244389576a3beaf01c318"/>
+          href="ValueStream_id-0eb64be980e2435b82adaea2331f9103.xml#id-0eb64be980e2435b82adaea2331f9103"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-c23eabaab9204200be136c628c7ffca1"
-        targetConnections="id-85209b8aacd44689a70a1b4357d010bd"
+        id="id-b340c21e93de41f7b3229f98e0ffb5f5"
+        targetConnections="id-a5bfb7ef57b940999b65eb77d5823354"
         textPosition="1"
         type="1">
       <features
           name="gradient"
           value="1"/>
       <bounds
-          x="240"
-          y="50"
-          width="201"
+          x="230"
+          y="40"
+          width="181"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
-          href="ValueStream_id-c8b4c4196bab49129cf2f92ae1891327.xml#id-c8b4c4196bab49129cf2f92ae1891327"/>
+          href="ValueStream_id-2fc1467881204bed8b0b1d4c0f7190df.xml#id-2fc1467881204bed8b0b1d4c0f7190df"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6eae4ae3d3c8499b914406090fca48d5"
-        targetConnections="id-6cebafc170204764a1dbaf5be4ec8494"
+        id="id-04bbdfcbbe9244b4ace254b3cc53c557"
+        targetConnections="id-4640e6d32c134b289f05bc7bbba0650d"
         textPosition="1"
         type="1">
       <features
           name="gradient"
           value="1"/>
       <bounds
-          x="460"
-          y="50"
-          width="201"
+          x="430"
+          y="40"
+          width="181"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
-          href="ValueStream_id-d28af51e5a1e473cbe186cd094cfd683.xml#id-d28af51e5a1e473cbe186cd094cfd683"/>
+          href="ValueStream_id-d06c0c8949ce4a4aa3abe47f768592b5.xml#id-d06c0c8949ce4a4aa3abe47f768592b5"/>
     </children>
     <archimateElement
         xsi:type="archimate:ValueStream"
-        href="ValueStream_id-7c6649b0a35446ad9c286d8f1320459d.xml#id-7c6649b0a35446ad9c286d8f1320459d"/>
+        href="ValueStream_id-57558d1730cf422584f85c1cd5f7588b.xml#id-57558d1730cf422584f85c1cd5f7588b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-ddd4ab81f28b46d89d35b44eda5ff1f1"
+      id="id-85f44f7f4e054533b79f588ca19ecbac"
       imagePath="images/_Ic2hgFnAEeyNC9B01ZQmvA.png"
       imagePosition="9">
     <features
@@ -112,7 +112,7 @@
         value=" "/>
     <bounds
         x="30"
-        y="220"
+        y="180"
         width="31"
         height="31"/>
     <referencedModel

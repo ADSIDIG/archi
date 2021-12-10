@@ -28,7 +28,7 @@
           href="CompositionRelationship_id-7f7bbad3dd074fd2b7a06b0ad426c95c.xml#id-7f7bbad3dd074fd2b7a06b0ad426c95c"/>
     </sourceConnections>
     <bounds
-        x="50"
+        x="30"
         y="30"
         width="651"
         height="131"/>
@@ -71,5 +71,25 @@
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-5076502af9fd43a3b8ecb8e9d60e6af1.xml#id-5076502af9fd43a3b8ecb8e9d60e6af1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-11362f13c8a64ff285103600d1246dd0"
+      imagePath="images/_Ic2hgFnAEeyNC9B01ZQmvA.png"
+      imagePosition="9">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="30"
+        y="180"
+        width="31"
+        height="31"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-c60bdc77352e4fc0be5d0b51752fe8b5.xml#id-c60bdc77352e4fc0be5d0b51752fe8b5"/>
   </children>
 </archimate:ArchimateDiagramModel>
