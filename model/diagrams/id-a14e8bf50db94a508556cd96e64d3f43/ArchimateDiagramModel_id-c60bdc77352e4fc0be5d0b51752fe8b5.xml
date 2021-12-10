@@ -12,6 +12,9 @@
     <features
         name="gradient"
         value="1"/>
+    <features
+        name="labelExpression"
+        value="$model{property:ProductName} - $view{name}"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-9ce2a128d9c54e78a4375b2382b2b675"
@@ -483,6 +486,9 @@
     <features
         name="gradient"
         value="1"/>
+    <features
+        name="labelExpression"
+        value="Drilldown"/>
     <bounds
         x="770"
         y="140"
