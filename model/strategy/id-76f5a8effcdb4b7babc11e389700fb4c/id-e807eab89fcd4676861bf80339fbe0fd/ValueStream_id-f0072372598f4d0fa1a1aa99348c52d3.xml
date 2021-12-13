@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.2 Product"
-    id="id-f0072372598f4d0fa1a1aa99348c52d3"/>
+    id="id-f0072372598f4d0fa1a1aa99348c52d3"
+    documentation="Credit card product configuration, including BIN, ranges, product type, limits, fees, interest rates, allowed credit types, grace period, billing cycle definition, payment priority list, credit limits, overdraft, and renewal conditions."/>

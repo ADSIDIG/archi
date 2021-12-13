@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.5 Card issuing"
-    id="id-d08462d941be4c1099ba23ca13a5bdb0"/>
+    id="id-d08462d941be4c1099ba23ca13a5bdb0"
+    documentation="When the card application is approved a new card will be created in the system, including the contract and account related to register the card transactions when received from payment system. Additionally, the virtual card will be issued and the process to create the physical card will be started."/>

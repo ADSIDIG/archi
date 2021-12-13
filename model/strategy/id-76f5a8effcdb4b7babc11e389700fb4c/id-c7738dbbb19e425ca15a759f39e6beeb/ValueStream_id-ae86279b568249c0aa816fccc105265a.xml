@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.3 Bureau Check"
-    id="id-ae86279b568249c0aa816fccc105265a"/>
+    id="id-ae86279b568249c0aa816fccc105265a"
+    documentation="Credit bureau integration in order to get the credit scoring from customer who is applying for the credit card."/>

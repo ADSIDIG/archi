@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.1 VISA Switch"
-    id="id-4149028c5c0e4a3c8f7da990a2451969"/>
+    id="id-4149028c5c0e4a3c8f7da990a2451969"
+    documentation="Integration with VISA DPS switch in order to receive card based transactions performed in VISA Network."/>

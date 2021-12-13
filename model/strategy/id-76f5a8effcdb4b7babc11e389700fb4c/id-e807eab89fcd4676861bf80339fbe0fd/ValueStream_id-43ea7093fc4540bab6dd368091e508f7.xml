@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.3 Customer"
-    id="id-43ea7093fc4540bab6dd368091e508f7"/>
+    id="id-43ea7093fc4540bab6dd368091e508f7"
+    documentation="Required information from customer to create a card application, perform KYC and check credit scoring at the credit bureau, also possibility to store required documents and have"/>

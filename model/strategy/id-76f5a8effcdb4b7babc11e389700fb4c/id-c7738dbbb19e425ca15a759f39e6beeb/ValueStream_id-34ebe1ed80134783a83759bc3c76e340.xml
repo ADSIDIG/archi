@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.2 KYC"
-    id="id-34ebe1ed80134783a83759bc3c76e340"/>
+    id="id-34ebe1ed80134783a83759bc3c76e340"
+    documentation="Process to perform Know Your Customer validations."/>

@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.3 Transaction Management"
-    id="id-45c59f64c8ac47b2a8fa5d0427ed83ab"/>
+    id="id-45c59f64c8ac47b2a8fa5d0427ed83ab"
+    documentation="Transaction module design that will allow to configure the behavior of different card transactions. For example, cash advances shall be registered in a different balance component and might have a different interest rate, also merchandize return transactions are credits to the card that might be treated as advance payments."/>

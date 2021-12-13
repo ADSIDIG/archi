@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.4 Application Review"
-    id="id-306e8635b3f846bab86505336635a69a"/>
+    id="id-306e8635b3f846bab86505336635a69a"
+    documentation="Configuration of different rules to check card application and result of KYC and credit bureau validations to approve, decline, or send to manual review the card application."/>

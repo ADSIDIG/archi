@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.1 Application Capture"
-    id="id-8b819c4e7f924fb4984bd9e6401d43dd"/>
+    id="id-8b819c4e7f924fb4984bd9e6401d43dd"
+    documentation="Module design to capture all required information to create a card application and process it."/>
