@@ -1,68 +1,78 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(O) 1.3 Transactions "
-    id="id-ace6eb79c4aa4c749e1919d86859c95d">
+    name="(O) 1.4 Credit Line"
+    id="id-c7025f2d9151481abc444f9802651945"
+    documentation="Functionality related to CMS credit line management">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-655f10fc3e234ab7b070a660891e5f53">
+      id="id-dd22eb66f20f4a9ebe185878518bd2ca">
     <features
         name="gradient"
         value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-dfdf9432e8044b428652d30f2b14ce5c"
-        source="id-655f10fc3e234ab7b070a660891e5f53"
-        target="id-c41db02a844f45fab8fa0dc2294c33ab">
+        id="id-743e176e1e6b4a45b2b3d2e260655beb"
+        source="id-dd22eb66f20f4a9ebe185878518bd2ca"
+        target="id-449fefde71cb4fe2a9dc582f43ffd0a9">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-1e1f2829548744e18ad7ca104bb24871.xml#id-1e1f2829548744e18ad7ca104bb24871"/>
+          href="CompositionRelationship_id-0ca03356026b4a4fa906a5e9ed99e9f7.xml#id-0ca03356026b4a4fa906a5e9ed99e9f7"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e955e3bc48bc4826922ec1760a8ff6f0"
-        source="id-655f10fc3e234ab7b070a660891e5f53"
-        target="id-4f28658db7bb45aa9e6abdfdbeef1ea2">
+        id="id-2218f51e6ec44ec29595af8d6260d2f0"
+        source="id-dd22eb66f20f4a9ebe185878518bd2ca"
+        target="id-2c4fe993307c42438ac184f4e4e96a6a">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-7f7bbad3dd074fd2b7a06b0ad426c95c.xml#id-7f7bbad3dd074fd2b7a06b0ad426c95c"/>
+          href="CompositionRelationship_id-6ee804d57b444f77ab499bc3a52bb324.xml#id-6ee804d57b444f77ab499bc3a52bb324"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-01c6e5b3263641cb98ce00cc2c764df7"
-        source="id-655f10fc3e234ab7b070a660891e5f53"
-        target="id-ebfb2ef63e274f59bb602981365b3bd6">
+        id="id-69107265cdc04a2d8b5991dd08f4b54e"
+        source="id-dd22eb66f20f4a9ebe185878518bd2ca"
+        target="id-e49283923be64e7c9ed387f46ec86b04">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-9a491005011141f88e943681570c11cc.xml#id-9a491005011141f88e943681570c11cc"/>
+          href="CompositionRelationship_id-9c181aacb2ba48969f8a48d75ea9b22d.xml#id-9c181aacb2ba48969f8a48d75ea9b22d"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-baef560bec704d6da25deb9fd95460fb"
+        source="id-dd22eb66f20f4a9ebe185878518bd2ca"
+        target="id-836cb89ae66c4b859a20729e5cb0692f">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-47586919206c4339a8d3093478a035dd.xml#id-47586919206c4339a8d3093478a035dd"/>
     </sourceConnections>
     <bounds
-        x="160"
+        x="170"
         y="140"
         width="651"
-        height="181"/>
+        height="241"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-c41db02a844f45fab8fa0dc2294c33ab"
-        targetConnections="id-dfdf9432e8044b428652d30f2b14ce5c"
+        id="id-449fefde71cb4fe2a9dc582f43ffd0a9"
+        targetConnections="id-743e176e1e6b4a45b2b3d2e260655beb"
         textPosition="1"
         type="1">
       <features
           name="gradient"
           value="1"/>
       <bounds
-          x="40"
-          y="40"
-          width="271"
+          x="20"
+          y="50"
+          width="281"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
-          href="ValueStream_id-4149028c5c0e4a3c8f7da990a2451969.xml#id-4149028c5c0e4a3c8f7da990a2451969"/>
+          href="ValueStream_id-97cc35d1d37543548347f771b3928ba6.xml#id-97cc35d1d37543548347f771b3928ba6"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-4f28658db7bb45aa9e6abdfdbeef1ea2"
-        targetConnections="id-e955e3bc48bc4826922ec1760a8ff6f0"
+        id="id-2c4fe993307c42438ac184f4e4e96a6a"
+        targetConnections="id-2218f51e6ec44ec29595af8d6260d2f0"
         textPosition="1"
         type="1">
       <features
@@ -70,38 +80,56 @@
           value="1"/>
       <bounds
           x="330"
-          y="40"
+          y="50"
           width="291"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
-          href="ValueStream_id-4f2de762fde54517bbc8d9f96102fa2a.xml#id-4f2de762fde54517bbc8d9f96102fa2a"/>
+          href="ValueStream_id-fd1d593ec83b4f0a96143ef18cee1dd5.xml#id-fd1d593ec83b4f0a96143ef18cee1dd5"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-ebfb2ef63e274f59bb602981365b3bd6"
-        targetConnections="id-01c6e5b3263641cb98ce00cc2c764df7"
+        id="id-e49283923be64e7c9ed387f46ec86b04"
+        targetConnections="id-69107265cdc04a2d8b5991dd08f4b54e"
         textPosition="1"
         type="1">
       <features
           name="gradient"
           value="1"/>
       <bounds
-          x="110"
-          y="110"
-          width="431"
+          x="20"
+          y="150"
+          width="281"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
-          href="ValueStream_id-45c59f64c8ac47b2a8fa5d0427ed83ab.xml#id-45c59f64c8ac47b2a8fa5d0427ed83ab"/>
+          href="ValueStream_id-3f309b4310c54ea7861aecfc2e168e10.xml#id-3f309b4310c54ea7861aecfc2e168e10"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-836cb89ae66c4b859a20729e5cb0692f"
+        targetConnections="id-baef560bec704d6da25deb9fd95460fb"
+        textPosition="1"
+        type="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          x="330"
+          y="150"
+          width="291"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ValueStream"
+          href="ValueStream_id-657d8ce894b94bd5be4cb5e35e178037.xml#id-657d8ce894b94bd5be4cb5e35e178037"/>
     </children>
     <archimateElement
         xsi:type="archimate:ValueStream"
-        href="ValueStream_id-5076502af9fd43a3b8ecb8e9d60e6af1.xml#id-5076502af9fd43a3b8ecb8e9d60e6af1"/>
+        href="ValueStream_id-757bedbdec974c5ca5957c49995f73f5.xml#id-757bedbdec974c5ca5957c49995f73f5"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-11362f13c8a64ff285103600d1246dd0"
+      id="id-dfa63f73f0ab4a418bb6126470daf063"
       fillColor="#feffff"
       imagePath="images/_Ic2hgFnAEeyNC9B01ZQmvA.png"
       imagePosition="9">
@@ -113,7 +141,7 @@
         value=" "/>
     <bounds
         x="20"
-        y="330"
+        y="400"
         width="31"
         height="31"/>
     <referencedModel
@@ -122,7 +150,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-8b74ea8961a24ab5aedc59ba3e366ad7"
+      id="id-7135d84b76bb4737a2e2e818655e3c16"
       font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
       content="MOCA CMS - Overview "
       textPosition="1"
@@ -141,7 +169,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-0eec1eba22554aeb902e2579c263b0f4"
+      id="id-797dce9d00ce4e1aa760377b0efbc35b"
       font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
       textAlignment="4"
       content="Project :"
@@ -158,7 +186,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-b24a9fd8a5294d72b6799870708b982f"
+      id="id-6d094d1df39048efb1362aa3bdbefd4c"
       content="CMS - Specification"
       textPosition="1"
       borderType="1">
@@ -176,7 +204,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-3a3010e1f7ba4b808e3803ff353d7400"
+      id="id-25198c5f593244a9bf694c056942890e"
       font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
       textAlignment="4"
       content="Date :"
@@ -193,7 +221,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-d7f1179a751c41158222a68c35a6b83e"
+      id="id-f8b480df90964bb69123ee32c5cd20a8"
       content="CMS - Specification"
       textPosition="1"
       borderType="1">
@@ -211,7 +239,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-b37fbccf124a4005ae662fc2565caa9e"
+      id="id-409338a2309f46c6ab02fc7d325d4d45"
       font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
       textAlignment="4"
       content="Version :"
@@ -228,7 +256,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-dd97c7bf225144cfa205d5bfdf5ecefe"
+      id="id-94c962fe5de6495db7533de39d2e59f9"
       content="1.0"
       textPosition="1"
       borderType="1">
@@ -246,7 +274,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-cf1fceae4465433ba69a6b2aa4516cbf"
+      id="id-af9749f894674802a7674066eb9c985e"
       font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
       textAlignment="4"
       content="Diagram :"
@@ -263,7 +291,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-b0b061cbc91644faa07393d223c8bb08"
+      id="id-fa4c9e0cb57c475488ccd3a2123ad35b"
       content="CMS Value Stream View"
       textPosition="1"
       borderType="1">
@@ -281,7 +309,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-8a1f1212874b4ec3b67ff6638e844c31"
+      id="id-39e39ec5e64243e1b081bf545bc7b196"
       font="1|Montserrat|11.0|1|COCOA|1|Montserrat-Bold"
       textAlignment="4"
       content="Author :"
@@ -298,7 +326,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-607329fd221b43178eb71e13fafa01d4"
+      id="id-00da2ef708a04cda839d0e82d24d2799"
       content="ADSI Architecture"
       textPosition="1"
       borderType="1">

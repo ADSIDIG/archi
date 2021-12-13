@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3. Transactions"
-    id="id-5076502af9fd43a3b8ecb8e9d60e6af1"/>
+    id="id-5076502af9fd43a3b8ecb8e9d60e6af1"
+    documentation="Integration with different actors from which it is possible to receive transactions: VISA DPS and API (from bank or Fintech) and a transaction manager to be able to configure different settings per each transaction type."/>

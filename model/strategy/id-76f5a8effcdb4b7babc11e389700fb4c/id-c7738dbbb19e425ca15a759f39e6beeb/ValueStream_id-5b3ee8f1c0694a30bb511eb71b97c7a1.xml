@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2. Card Application"
-    id="id-5b3ee8f1c0694a30bb511eb71b97c7a1"/>
+    id="id-5b3ee8f1c0694a30bb511eb71b97c7a1"
+    documentation="It will include the different steps to capture customer information to create a card application, perform KYC, credit bureau validations and, in case application is approved, issue the card."/>

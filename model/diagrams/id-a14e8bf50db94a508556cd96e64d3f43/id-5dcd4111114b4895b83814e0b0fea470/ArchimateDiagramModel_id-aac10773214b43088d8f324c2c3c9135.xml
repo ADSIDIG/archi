@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(O) 1.8 Reports"
-    id="id-aac10773214b43088d8f324c2c3c9135">
+    id="id-aac10773214b43088d8f324c2c3c9135"
+    documentation="Functionality related to CMS reports">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-97412e83ea3f423d975fba20386f6e7b">
