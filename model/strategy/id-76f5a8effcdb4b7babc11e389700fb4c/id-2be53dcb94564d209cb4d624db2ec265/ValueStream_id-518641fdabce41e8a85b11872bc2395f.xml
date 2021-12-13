@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.5 Notifications"
-    id="id-518641fdabce41e8a85b11872bc2395f"/>
+    id="id-518641fdabce41e8a85b11872bc2395f"
+    documentation="Generation of different customer notifications to remind about due dates, minimum payments and to notify about card status changes due to payments not received."/>

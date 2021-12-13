@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="6.2 MOCA Payment - From Other Card"
-    id="id-e8e3a379d19e451294392728fc025e98"/>
+    id="id-e8e3a379d19e451294392728fc025e98"
+    documentation="Application of payments received via other Moca cards in the different balance components of the credit line."/>

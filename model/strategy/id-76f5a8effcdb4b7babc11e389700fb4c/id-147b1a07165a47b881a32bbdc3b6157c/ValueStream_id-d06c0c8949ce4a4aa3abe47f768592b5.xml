@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="11.3 By Payment"
-    id="id-d06c0c8949ce4a4aa3abe47f768592b5"/>
+    id="id-d06c0c8949ce4a4aa3abe47f768592b5"
+    documentation="Configuration and calculation of rewards when customer fulfils the payments on time."/>

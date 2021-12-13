@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.2 Commision Calculacion"
-    id="id-fd1d593ec83b4f0a96143ef18cee1dd5"/>
+    id="id-fd1d593ec83b4f0a96143ef18cee1dd5"
+    documentation="Additional charges configuration and calculation rules such as annual membership, transactions fees and penalty fees."/>

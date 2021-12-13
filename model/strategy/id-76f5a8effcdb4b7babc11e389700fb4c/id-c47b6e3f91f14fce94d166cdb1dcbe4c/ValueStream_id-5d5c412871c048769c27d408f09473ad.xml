@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5.1 Cash Balance (Minimum) "
-    id="id-5d5c412871c048769c27d408f09473ad"/>
+    id="id-5d5c412871c048769c27d408f09473ad"
+    documentation="Minimum payment calculation definition and rules based on card product configuration."/>

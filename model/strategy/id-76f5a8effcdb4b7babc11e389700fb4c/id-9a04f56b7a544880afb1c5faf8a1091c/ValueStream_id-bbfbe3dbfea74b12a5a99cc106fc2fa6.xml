@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="8.1 VISA Reports"
-    id="id-bbfbe3dbfea74b12a5a99cc106fc2fa6"/>
+    id="id-bbfbe3dbfea74b12a5a99cc106fc2fa6"
+    documentation="Visa transactions reports generation for banks."/>

@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="9.2 Bureau Management"
-    id="id-c8b4c4196bab49129cf2f92ae1891327"/>
+    id="id-c8b4c4196bab49129cf2f92ae1891327"
+    documentation="Credit bureau required reports to update customer information based on credit card usage."/>

@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2 End of Day process"
-    id="id-ed62a0eadbb747359e1cab127fac4f75"/>
+    id="id-ed62a0eadbb747359e1cab127fac4f75"
+    documentation="Daily process that can run manually or be programmed to run automatically at a specific time on which different activities are performed in the system: such as change business date, change card status based in different rules, delinquency and risk calculations."/>
