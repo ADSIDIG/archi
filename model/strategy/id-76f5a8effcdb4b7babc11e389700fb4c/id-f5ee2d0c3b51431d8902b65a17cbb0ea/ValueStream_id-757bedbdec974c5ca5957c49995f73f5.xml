@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4. Credit Line"
     id="id-757bedbdec974c5ca5957c49995f73f5"
-    documentation="It will include all revolving credit functionalities needed for the minimum viable product defined: daily interest calculation, fees, balance calculation and arrears calculations."/>
+    documentation="It will include all revolving credit functionalities needed for the minimum viable product defined: daily interest calculation, fees, balance calculation and penalty calculations."/>

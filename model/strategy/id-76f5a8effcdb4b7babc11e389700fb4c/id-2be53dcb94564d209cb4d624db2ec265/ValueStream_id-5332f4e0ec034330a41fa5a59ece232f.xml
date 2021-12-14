@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7. Batch"
     id="id-5332f4e0ec034330a41fa5a59ece232f"
-    documentation="Scheduled jobs or tasks that are needed in order to perform end of day process, export or import VISA files, create files for financial institutions and generate notifications."/>
+    documentation="Scheduled jobs or tasks that are needed in order to perform end of day process, export or import VISA files, create files for financial institutions and generate customer notifications."/>

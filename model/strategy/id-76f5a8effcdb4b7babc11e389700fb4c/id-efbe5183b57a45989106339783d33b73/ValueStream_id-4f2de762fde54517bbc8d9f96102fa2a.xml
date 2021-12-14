@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.2 API"
     id="id-4f2de762fde54517bbc8d9f96102fa2a"
-    documentation="Integration via API with other entities in order to receive payments (ACH) and other transactions originated in the bank. Also, it would include transactions performed between MOCA ecosystem, such as "/>
+    documentation="Integration via API with other entities in order to receive payments (ACH) and other transactions originated in the bank. Also, it would include transactions performed between MOCA ecosystem"/>
