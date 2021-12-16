@@ -339,4 +339,18 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-7adc338654c74a51b38a4bccda40477c.xml#id-7adc338654c74a51b38a4bccda40477c"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9942f44d14d84987a1991dcef4644d67"
+      textAlignment="1"
+      content="Financial Institution States Diagram.&#xA;- Inactive.&#xA;- Active.&#xA;- In progress.&#xA;">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="667"
+        y="313"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>

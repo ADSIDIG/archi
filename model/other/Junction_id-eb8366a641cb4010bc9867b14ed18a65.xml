@@ -1,0 +1,6 @@
+<archimate:Junction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Junction"
+    id="id-eb8366a641cb4010bc9867b14ed18a65"
+    documentation="If the financial institution state is INPROGRESS"
+    type="or"/>
