@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.2 Product"
+    id="id-4cb736a4f19240b68ecdc4639ce6c029"
+    documentation="Credit card product configuration, including BIN, ranges, product type, limits, fees, interest rates, allowed credit types, grace period, billing cycle definition, payment priority list, credit limits, overdraft, and renewal conditions."/>

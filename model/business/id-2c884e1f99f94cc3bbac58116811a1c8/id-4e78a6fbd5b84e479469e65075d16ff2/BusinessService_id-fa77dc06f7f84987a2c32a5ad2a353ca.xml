@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1. Settings"
+    id="id-fa77dc06f7f84987a2c32a5ad2a353ca"
+    documentation="It will include the basic configuration needed in the system to be ready to receive a card application."/>

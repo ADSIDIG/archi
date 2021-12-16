@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.1 Financial Institution"
+    id="id-5cbd38c1cde0456b860a4b5cd7caab8f"
+    documentation="It will include the general configuration of the financial institution that will issue the cards such as name, routing number, address, country, currency, VISA Business ID and other required information"/>
