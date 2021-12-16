@@ -75,6 +75,9 @@
       <features
           name="gradient"
           value="1"/>
+      <features
+          name="labelExpression"
+          value="Business Service - Settings"/>
       <bounds
           x="20"
           y="30"

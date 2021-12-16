@@ -521,4 +521,55 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-263a8fbf82d64b5982e5fda5531191d5.xml#id-263a8fbf82d64b5982e5fda5531191d5"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-a3cd941ce39942eaa4f2e546976c4b4a"
+      name="Drilldown"
+      textAlignment="1"
+      fillColor="#eaeaea">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="80"
+        y="520"
+        width="911"
+        height="171"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-8f4ad0cfc9a24c41bb409e71ed6af03c">
+      <features
+          name="gradient"
+          value="2"/>
+      <bounds
+          x="20"
+          y="30"
+          width="181"
+          height="41"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-c271c1e0ac434c218cdd2208055fc5a2.xml#id-c271c1e0ac434c218cdd2208055fc5a2"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-850cef0545eb4e2c86045b42255da5df"
+      fillColor="#feffff"
+      imagePath="images/_Ic2hgFnAEeyNC9B01ZQmvA.png"
+      imagePosition="9">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="30"
+        y="520"
+        width="31"
+        height="31"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-e1ee4d09072c444e897b523fbf921d21.xml#id-e1ee4d09072c444e897b523fbf921d21"/>
+  </children>
 </archimate:ArchimateDiagramModel>
