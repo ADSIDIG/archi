@@ -26,11 +26,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8e7119634f524acab76f1f7623f37aca"
-      fillColor="#feffff"
+      fillColor="#feeede"
       type="1">
     <features
         name="gradient"
-        value="1"/>
+        value="2"/>
     <bounds
         x="30"
         y="130"
@@ -59,10 +59,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b5a2b72a12ee4654859f2581d6363c3a"
+      fillColor="#fffddd"
       type="1">
     <features
         name="gradient"
-        value="1"/>
+        value="2"/>
     <bounds
         x="30"
         y="250"
