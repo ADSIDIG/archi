@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BS.1.1 P1 - Creation"
-    id="id-84316d684e744360a052d6e49934f198">
+    id="id-84316d684e744360a052d6e49934f198"
+    documentation="Create a Financial Institution in the system, this Financial Institution will be related to the issuing of a credit either as an issuer or as a sponsor">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c6250d5417f84e2f85c3bec1bec6f845"
