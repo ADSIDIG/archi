@@ -537,15 +537,19 @@
         height="171"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-14a903629f104edebb471611ed987d4a">
+        id="id-14a903629f104edebb471611ed987d4a"
+        textPosition="1">
       <features
           name="gradient"
           value="2"/>
+      <features
+          name="labelExpression"
+          value="CRUD FI"/>
       <bounds
           x="20"
           y="30"
           width="221"
-          height="41"/>
+          height="31"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-8834e813e79743c1ae461f43a9f42b2e.xml#id-8834e813e79743c1ae461f43a9f42b2e"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.2 Product Association"
-    id="id-ca8d181740774effb4fd27f733977559"/>
+    id="id-ca8d181740774effb4fd27f733977559"
+    documentation="It will be used to relate different card products to one Financial Institution."/>

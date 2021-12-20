@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.3 Operation Accounts"
-    id="id-dcb67506cd624ac3812a277f8dcdbf1d"/>
+    id="id-dcb67506cd624ac3812a277f8dcdbf1d"
+    documentation="The purpose of this business service is to define the accounts to which different transactions will be booked to a Financial Institution."/>

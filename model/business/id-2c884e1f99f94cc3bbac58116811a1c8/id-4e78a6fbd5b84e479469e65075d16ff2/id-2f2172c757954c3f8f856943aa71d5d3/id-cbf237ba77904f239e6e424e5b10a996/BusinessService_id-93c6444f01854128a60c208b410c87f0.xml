@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.4 Institution Relationships"
-    id="id-93c6444f01854128a60c208b410c87f0"/>
+    id="id-93c6444f01854128a60c208b410c87f0"
+    documentation="This business service will allow to relate a Financial Institution to another one in case it exists a relationship such as sponsorship or cobranding to issue a credit card product."/>

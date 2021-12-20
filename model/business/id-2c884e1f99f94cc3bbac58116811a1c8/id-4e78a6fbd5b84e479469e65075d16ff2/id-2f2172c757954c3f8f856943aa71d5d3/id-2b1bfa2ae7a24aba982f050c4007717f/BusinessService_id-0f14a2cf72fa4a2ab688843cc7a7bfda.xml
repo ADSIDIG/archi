@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.5 Restrictions"
     id="id-0f14a2cf72fa4a2ab688843cc7a7bfda"
-    documentation="Financial Conditions such as, Currency"/>
+    documentation="This business service will allow MOCA to define some additional parameters to the Financial Institution related to contracts conditions, for example % of interchange fee to be charged to the FI"/>

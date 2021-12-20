@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.5.1 Calendar"
-    id="id-aa9a222df44a4301bdfe3e0a772acc82"/>
+    id="id-aa9a222df44a4301bdfe3e0a772acc82"
+    documentation="the settings of the calendar to register nonbusiness dates and billing cycle configuration."/>

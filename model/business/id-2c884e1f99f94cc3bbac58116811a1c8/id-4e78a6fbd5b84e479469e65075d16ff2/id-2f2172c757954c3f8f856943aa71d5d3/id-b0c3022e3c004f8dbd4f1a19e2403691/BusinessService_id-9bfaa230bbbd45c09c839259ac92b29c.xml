@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.1 CRUD Financial Institution"
-    id="id-9bfaa230bbbd45c09c839259ac92b29c"/>
+    id="id-9bfaa230bbbd45c09c839259ac92b29c"
+    documentation="It includes the operations to create, modify, disable or inactivate a Financial Institution in the system."/>

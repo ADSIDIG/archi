@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.6 Collections"
-    id="id-9fd8abc0e33f40a1838e954fc587b480"/>
+    id="id-9fd8abc0e33f40a1838e954fc587b480"
+    documentation="Additional parameters to define how the FI institution will handle the collection process"/>
