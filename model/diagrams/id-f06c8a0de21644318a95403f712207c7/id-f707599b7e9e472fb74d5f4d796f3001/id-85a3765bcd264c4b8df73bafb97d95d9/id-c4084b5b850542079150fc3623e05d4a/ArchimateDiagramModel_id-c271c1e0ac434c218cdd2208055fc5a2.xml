@@ -332,7 +332,7 @@
         value=" "/>
     <bounds
         x="30"
-        y="350"
+        y="390"
         width="31"
         height="31"/>
     <referencedModel
@@ -340,17 +340,34 @@
         href="ArchimateDiagramModel_id-7adc338654c74a51b38a4bccda40477c.xml#id-7adc338654c74a51b38a4bccda40477c"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-9942f44d14d84987a1991dcef4644d67"
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-385024c822fc4f018e548597fba8edd7"
+      name="Drilldown"
       textAlignment="1"
-      content="Financial Institution States Diagram.&#xA;- Inactive.&#xA;- Active.&#xA;- In progress.&#xA;">
+      fillColor="#eaeaea">
     <features
         name="gradient"
         value="1"/>
     <bounds
-        x="667"
-        y="313"
-        width="185"
-        height="80"/>
+        x="80"
+        y="390"
+        width="891"
+        height="101"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-f8b3ddaa38504a1e897e45ae3741c899"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="2"/>
+      <bounds
+          x="20"
+          y="30"
+          width="141"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-b862c74f0ce44e2b815eec30718bf2a9.xml#id-b862c74f0ce44e2b815eec30718bf2a9"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>

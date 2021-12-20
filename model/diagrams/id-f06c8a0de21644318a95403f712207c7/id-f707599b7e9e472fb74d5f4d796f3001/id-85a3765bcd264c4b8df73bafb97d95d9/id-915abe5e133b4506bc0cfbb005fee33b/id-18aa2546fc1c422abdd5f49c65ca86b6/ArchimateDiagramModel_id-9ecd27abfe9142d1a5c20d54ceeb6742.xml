@@ -208,6 +208,9 @@
       <features
           name="gradient"
           value="1"/>
+      <features
+          name="labelExpression"
+          value="P3.2 Modify Data&#xA;&lt;&lt;Active>>"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1d39f06724a04a1a8d1b88ca6c9c01cd"
