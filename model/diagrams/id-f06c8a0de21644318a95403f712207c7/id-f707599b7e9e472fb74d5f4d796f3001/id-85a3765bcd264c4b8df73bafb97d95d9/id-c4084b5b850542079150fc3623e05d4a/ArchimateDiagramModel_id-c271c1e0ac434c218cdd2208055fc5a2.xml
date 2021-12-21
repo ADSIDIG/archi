@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Objects Financial Institution"
+    name="Financial Institution Business Objects "
     id="id-c271c1e0ac434c218cdd2208055fc5a2"
-    documentation="Business Objects Financial Institution">
+    documentation="Financial Institution Business Objects ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3a92a67cc0b2440fb5810740e2529e32"
@@ -37,6 +37,15 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-1d2213636e4343c7b44d86b767eba13e.xml#id-1d2213636e4343c7b44d86b767eba13e"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4f8b303400ed485a9d42bc3f18dc7da0"
+        source="id-3a92a67cc0b2440fb5810740e2529e32"
+        target="id-13f1384b57e04174a0dadf7c6113a3bf">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-b48c7861c4274179b940db4a01ceb9f2.xml#id-b48c7861c4274179b940db4a01ceb9f2"/>
     </sourceConnections>
     <bounds
         x="380"
@@ -347,12 +356,12 @@
       fillColor="#eaeaea">
     <features
         name="gradient"
-        value="1"/>
+        value="2"/>
     <bounds
         x="80"
         y="390"
         width="891"
-        height="101"/>
+        height="81"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-f8b3ddaa38504a1e897e45ae3741c899"
@@ -369,5 +378,22 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-b862c74f0ce44e2b815eec30718bf2a9.xml#id-b862c74f0ce44e2b815eec30718bf2a9"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-13f1384b57e04174a0dadf7c6113a3bf"
+      targetConnections="id-4f8b303400ed485a9d42bc3f18dc7da0"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="211"
+        y="278"
+        width="120"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-3c8528facc7446b18bbe8eaf4cd7c53c.xml#id-3c8528facc7446b18bbe8eaf4cd7c53c"/>
   </children>
 </archimate:ArchimateDiagramModel>

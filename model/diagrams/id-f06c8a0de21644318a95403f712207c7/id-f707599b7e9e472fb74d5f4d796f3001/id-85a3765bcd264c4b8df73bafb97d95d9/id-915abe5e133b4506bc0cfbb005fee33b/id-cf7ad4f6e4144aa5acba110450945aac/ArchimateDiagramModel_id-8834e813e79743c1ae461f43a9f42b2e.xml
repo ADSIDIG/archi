@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BS.1.1 Settings - FI CRUD"
     id="id-8834e813e79743c1ae461f43a9f42b2e"
-    documentation="It includes the operations to create, modify, disable or inactivate a Financial Institution in the system.">
+    documentation="Includes the operations to create, modify, disable or inactivate a Financial Institution in the system.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9fc62c961ea94d8e92b79262cdcf1370"
@@ -44,20 +44,15 @@
         source="id-1fd59d23bd224d0da28574408f3c9dda"
         target="id-74e59a01c3e74274893c130708ad56b4">
       <bendpoints
-          startX="15"
-          startY="65"
-          endX="-630"
-          endY="-147"/>
+          startX="5"
+          startY="55"
+          endX="-600"
+          endY="-127"/>
       <bendpoints
-          startX="295"
-          startY="65"
-          endX="-350"
-          endY="-147"/>
-      <bendpoints
-          startX="615"
-          startY="65"
-          endX="10"
-          endY="-147"/>
+          startX="595"
+          startY="55"
+          endX="-10"
+          endY="-127"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-b811a641c0464cd19045de8bd1d96fc1.xml#id-b811a641c0464cd19045de8bd1d96fc1"/>
@@ -95,14 +90,14 @@
         target="id-74e59a01c3e74274893c130708ad56b4">
       <bendpoints
           startX="10"
-          startY="115"
+          startY="105"
           endX="-290"
-          endY="-97"/>
+          endY="-107"/>
       <bendpoints
-          startX="330"
-          startY="115"
-          endX="30"
-          endY="-97"/>
+          startX="280"
+          startY="95"
+          endX="-20"
+          endY="-87"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-dda61b6c51d34f1cbb588f64e6d8a295.xml#id-dda61b6c51d34f1cbb588f64e6d8a295"/>
@@ -138,11 +133,6 @@
         id="id-9978bd2d79b04ee599183eb6e38d18ad"
         source="id-7f5b78146abb4fcca2324209d6b66a9d"
         target="id-74e59a01c3e74274893c130708ad56b4">
-      <bendpoints
-          startX="45"
-          startY="105"
-          endX="40"
-          endY="-107"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-e4cd399add3c493b859dfbff63569507.xml#id-e4cd399add3c493b859dfbff63569507"/>
@@ -166,7 +156,7 @@
         value="1"/>
     <bounds
         x="720"
-        y="470"
+        y="440"
         width="200"
         height="55"/>
     <archimateElement
@@ -191,14 +181,14 @@
           endX="-140"
           endY="205"/>
       <bendpoints
-          startX="200"
-          startY="-77"
-          endX="-170"
-          endY="135"/>
+          startX="170"
+          startY="-105"
+          endX="-140"
+          endY="105"/>
       <bendpoints
           startX="310"
-          startY="-75"
-          endY="135"/>
+          startY="-105"
+          endY="105"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-eb146327788447fa95293c827b8af968.xml#id-eb146327788447fa95293c827b8af968"/>
@@ -214,15 +204,15 @@
           endX="-425"
           endY="215"/>
       <bendpoints
-          startX="210"
-          startY="-67"
-          endX="-455"
-          endY="145"/>
+          startX="180"
+          startY="-95"
+          endX="-425"
+          endY="115"/>
       <bendpoints
-          startX="600"
-          startY="-65"
-          endX="-5"
-          endY="145"/>
+          startX="630"
+          startY="-95"
+          endX="25"
+          endY="115"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-bcec40f82b0c41ac95e7a4d3c2626504.xml#id-bcec40f82b0c41ac95e7a4d3c2626504"/>
@@ -258,10 +248,15 @@
         source="id-1bc7a553506f4814bbd76a72af255545"
         target="id-7f5b78146abb4fcca2324209d6b66a9d">
       <bendpoints
-          startX="590"
-          startY="-7"
-          endX="-15"
-          endY="125"/>
+          startX="10"
+          startY="-45"
+          endX="-595"
+          endY="85"/>
+      <bendpoints
+          startX="570"
+          startY="-45"
+          endX="-35"
+          endY="85"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-ec5e55975f0d46009bc90c56c0e3d6c5.xml#id-ec5e55975f0d46009bc90c56c0e3d6c5"/>
