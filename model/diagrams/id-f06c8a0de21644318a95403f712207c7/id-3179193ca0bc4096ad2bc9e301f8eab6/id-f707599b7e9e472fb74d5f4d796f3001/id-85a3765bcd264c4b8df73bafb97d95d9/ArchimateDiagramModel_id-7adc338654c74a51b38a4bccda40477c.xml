@@ -371,9 +371,9 @@
             name="gradient"
             value="2"/>
         <bounds
-            x="50"
+            x="20"
             y="40"
-            width="120"
+            width="171"
             height="41"/>
         <archimateElement
             xsi:type="archimate:BusinessService"
@@ -524,7 +524,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-a3cd941ce39942eaa4f2e546976c4b4a"
-      name="Business Services Drilldown"
+      name="Business Services"
       textAlignment="1"
       fillColor="#eaeaea">
     <features
@@ -674,7 +674,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-71a1d15e5e9147b0909723c646a85e90"
-      name="Business Objects Drilldown"
+      name="Business Objects"
       textAlignment="1"
       fillColor="#eaeaea">
     <features
