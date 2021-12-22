@@ -369,7 +369,7 @@
           textPosition="1">
         <features
             name="gradient"
-            value="1"/>
+            value="2"/>
         <bounds
             x="50"
             y="40"
@@ -533,8 +533,8 @@
     <bounds
         x="80"
         y="520"
-        width="891"
-        height="81"/>
+        width="871"
+        height="131"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-14a903629f104edebb471611ed987d4a"
@@ -548,11 +548,106 @@
       <bounds
           x="20"
           y="30"
-          width="221"
+          width="261"
           height="31"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-8834e813e79743c1ae461f43a9f42b2e.xml#id-8834e813e79743c1ae461f43a9f42b2e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-431362f66aba4b048b178fd1c56aed91"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Product Association"/>
+      <bounds
+          x="310"
+          y="30"
+          width="261"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-c607a742956647d3af97ee28f2bfcbfb.xml#id-c607a742956647d3af97ee28f2bfcbfb"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-0287cc0248ad4cf1ab2ae88ee94ce5ed"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Operation Accounts"/>
+      <bounds
+          x="600"
+          y="30"
+          width="251"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-efa7b0b359d14b7a933d14b91460ca25.xml#id-efa7b0b359d14b7a933d14b91460ca25"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-c8707f10a0ab4cb7af0d0d6a09056511"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Relationships"/>
+      <bounds
+          x="20"
+          y="80"
+          width="261"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-d5c7a8c91405475ca7de06b9a6baab3f.xml#id-d5c7a8c91405475ca7de06b9a6baab3f"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-9e76fbff31b34ba492f5b4ce101c54ec"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Restrictions"/>
+      <bounds
+          x="310"
+          y="80"
+          width="261"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-c7974be3bd8446f39b22ec84b4713375.xml#id-c7974be3bd8446f39b22ec84b4713375"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-513e034eb27d4fa18f7b82352ca58ec4"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Collections"/>
+      <bounds
+          x="600"
+          y="80"
+          width="251"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-da08f06ed39247afb26fdf6225e6d279.xml#id-da08f06ed39247afb26fdf6225e6d279"/>
     </children>
   </children>
   <children
@@ -587,8 +682,8 @@
         value="1"/>
     <bounds
         x="80"
-        y="620"
-        width="891"
+        y="680"
+        width="871"
         height="91"/>
     <children
         xsi:type="archimate:DiagramModelReference"

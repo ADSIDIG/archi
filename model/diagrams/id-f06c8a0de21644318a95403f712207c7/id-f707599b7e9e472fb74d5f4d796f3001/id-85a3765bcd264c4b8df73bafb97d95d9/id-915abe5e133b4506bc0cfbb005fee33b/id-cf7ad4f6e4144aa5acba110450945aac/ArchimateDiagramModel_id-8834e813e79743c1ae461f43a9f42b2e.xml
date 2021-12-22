@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BS.1.1 Settings - FI CRUD"
+    name="1.1.1 CRUD Financial Institution"
     id="id-8834e813e79743c1ae461f43a9f42b2e"
     documentation="Includes the operations to create, modify, disable or inactivate a Financial Institution in the system.">
   <children
