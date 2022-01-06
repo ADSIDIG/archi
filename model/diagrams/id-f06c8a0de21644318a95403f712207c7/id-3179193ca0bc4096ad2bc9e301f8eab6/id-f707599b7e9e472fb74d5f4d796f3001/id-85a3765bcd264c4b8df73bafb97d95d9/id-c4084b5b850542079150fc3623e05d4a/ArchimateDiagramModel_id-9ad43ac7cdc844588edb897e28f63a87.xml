@@ -202,7 +202,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-51b2b0295f8c43649bc046134c1458bf"
       textAlignment="1"
-      content="Financial Institution States Diagram.&#xA;- Inactive.&#xA;- Active.&#xA;- In progress.&#xA;"
+      content="Business Objects Attibutes"
       borderType="2"
       imagePath="images/_Jq0mAG70EeyaPOJaTJ7bQg.png"
       imagePosition="9">

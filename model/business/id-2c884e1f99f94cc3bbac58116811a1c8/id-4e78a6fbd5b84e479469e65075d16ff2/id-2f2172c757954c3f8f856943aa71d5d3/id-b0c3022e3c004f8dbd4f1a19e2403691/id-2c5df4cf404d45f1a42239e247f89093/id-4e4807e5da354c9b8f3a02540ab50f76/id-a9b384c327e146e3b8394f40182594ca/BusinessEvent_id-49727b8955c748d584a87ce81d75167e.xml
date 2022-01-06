@@ -1,4 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financial Institution Contract sign"
-    id="id-49727b8955c748d584a87ce81d75167e"/>
+    id="id-49727b8955c748d584a87ce81d75167e"
+    documentation="Formal MOCA contract"/>
