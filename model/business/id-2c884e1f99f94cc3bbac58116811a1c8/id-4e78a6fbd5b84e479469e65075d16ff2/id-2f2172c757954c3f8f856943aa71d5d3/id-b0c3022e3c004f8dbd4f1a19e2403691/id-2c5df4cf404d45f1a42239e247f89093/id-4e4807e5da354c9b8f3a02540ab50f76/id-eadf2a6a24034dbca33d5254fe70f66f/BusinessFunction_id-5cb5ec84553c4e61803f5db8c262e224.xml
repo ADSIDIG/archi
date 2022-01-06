@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.1.P1.3 User Feedback"
-    id="id-5cb5ec84553c4e61803f5db8c262e224"/>
+    id="id-5cb5ec84553c4e61803f5db8c262e224"
+    documentation="Description:&#x9;Result of validation of data entered to create a Financial Institution in case any required field is missing or in the wrong format.&#xA;Responsible:&#x9;System&#xA;Inputs:&#x9;Results from previous activity: 8.2 Data Validation.&#xA;Outputs:&#x9;Required fields will be marked to show the user that they are mandatory and missing.&#xA;For fields with wrong format the system will show a message indicating what is the right format for the user to correct it.&#xA;Exception Outputs:&#x9;&#xA;Tasks:&#x9;1.&#x9;When the user presses the button “Create” a message will appear to the user indicating the following: “There are some missing or incorrect fields, please check the form and try again”.&#xA;2.&#x9;For mandatory fields not completed: the system will mark them to indicate that are missing.&#xA;3.&#x9;For fields with wrong format the system will show a message indicating what is the right format for the user to correct it.&#xA;"/>

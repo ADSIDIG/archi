@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.1.P1.1 Capture"
-    id="id-26b82361b07044168257aa5ae31ef02d"/>
+    id="id-26b82361b07044168257aa5ae31ef02d"
+    documentation="Description:&#x9;Complete the form with information of the Financial Institution to be added into the system.&#xA;Responsible:&#x9;Administrator/ Operations user&#xA;Inputs:&#x9;1.&#x9;Financial Institution name&#xA;2.&#x9;Address&#xA;3.&#x9;Country&#xA;4.&#x9;Business Contact Name&#xA;5.&#x9;Business Contact Number&#xA;6.&#x9;Business Contact Email&#xA;7.&#x9;Technical Contact Name&#xA;8.&#x9;Technical Contact Number&#xA;9.&#x9;Technical Contact Email&#xA;10.&#x9;Currency&#xA;11.&#x9;Routing ID&#xA;12.&#x9;Payment System&#xA;13.&#x9;Payment System ID&#xA;Outputs:&#x9;Form completed and ready to be validated by the system.&#xA;Exception Outputs:&#x9;&#xA;Tasks:&#x9;1.&#x9;The operations user goes to the option to add a new financial institution. A form to enter the information will be shown.&#xA;2.&#x9;The operator enters the required fields.&#xA;3.&#x9;When complete the operator press the button “create”.&#xA;"/>

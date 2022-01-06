@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.1.P1.4 Data Creation"
-    id="id-b9ada05a63734b44b0c901a0d3a1829d"/>
+    id="id-b9ada05a63734b44b0c901a0d3a1829d"
+    documentation="Description:&#x9;Creation of new record Financial Institution in the system&#xA;Responsible:&#x9;System&#xA;Inputs:&#x9;Completed and validated form.&#xA;&#xA;Outputs:&#x9;Financial Institution created in the system in status “In Progress” and with a unique ID.&#xA;Exception Outputs:&#x9;&#xA;Tasks:&#x9;After the validation that the data is complete in the form, the system will create in the database a new record with the new Financial Institution and all the required relations in other tables.&#xA;"/>
