@@ -237,7 +237,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7068ff6d99084f038db9105fbd142dbd"
-      targetConnections="id-ff02226c7f6b40dfa2715dc5d29ae693"
+      targetConnections="id-ff02226c7f6b40dfa2715dc5d29ae693 id-0c1ef0ca0c7641db992610cbd11f9fbb id-6023d49acd784095a5d0751b34825a2c"
       textPosition="1">
     <features
         name="gradient"
@@ -344,9 +344,18 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-3bc37e3a29de495c9766061847482d18.xml#id-3bc37e3a29de495c9766061847482d18"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0c1ef0ca0c7641db992610cbd11f9fbb"
+        source="id-b7be6f71bf5e4a80b69bd53ce772882f"
+        target="id-7068ff6d99084f038db9105fbd142dbd">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-698e30346c974c30b93214ecc61d9117.xml#id-698e30346c974c30b93214ecc61d9117"/>
+    </sourceConnections>
     <bounds
-        x="250"
-        y="490"
+        x="110"
+        y="470"
         width="209"
         height="41"/>
     <archimateElement
@@ -362,12 +371,37 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="530"
-        y="490"
+        x="362"
+        y="470"
         width="159"
         height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-435b573f3bb64b25ab3c11cd7c0b553d.xml#id-435b573f3bb64b25ab3c11cd7c0b553d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1f3b059d95b34cb2afa03603cd3fe7b9"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6023d49acd784095a5d0751b34825a2c"
+        source="id-1f3b059d95b34cb2afa03603cd3fe7b9"
+        target="id-7068ff6d99084f038db9105fbd142dbd">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-0fc7d34921b5461489dfc6e2a1776e9f.xml#id-0fc7d34921b5461489dfc6e2a1776e9f"/>
+    </sourceConnections>
+    <bounds
+        x="280"
+        y="320"
+        width="191"
+        height="41"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-498af6875a2046478ed0ac6f73a77fb2.xml#id-498af6875a2046478ed0ac6f73a77fb2"/>
   </children>
 </archimate:ArchimateDiagramModel>
