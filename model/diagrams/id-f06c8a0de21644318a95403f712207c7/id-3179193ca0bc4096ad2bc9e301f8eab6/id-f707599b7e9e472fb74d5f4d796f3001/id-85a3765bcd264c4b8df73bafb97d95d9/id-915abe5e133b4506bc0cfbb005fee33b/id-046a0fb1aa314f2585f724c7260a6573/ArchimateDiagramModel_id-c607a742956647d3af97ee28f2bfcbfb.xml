@@ -231,6 +231,44 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-99653fdae35542009771f8d85f472c90.xml#id-99653fdae35542009771f8d85f472c90"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-78073ac45409427f932d10d38ac468be"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Customize Product"/>
+      <bounds
+          x="200"
+          y="30"
+          width="171"
+          height="41"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-d666618eeeb949cdb72ab528b24add34.xml#id-d666618eeeb949cdb72ab528b24add34"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-d9276e024e864192b72a595dce06403c"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Disabled Product"/>
+      <bounds
+          x="390"
+          y="30"
+          width="161"
+          height="41"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-c67e46f6a48a45c7b4c1ad728b85ad34.xml#id-c67e46f6a48a45c7b4c1ad728b85ad34"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
