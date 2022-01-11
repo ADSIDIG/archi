@@ -212,6 +212,25 @@
         y="460"
         width="691"
         height="81"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-b07da436a59f4b35be3377b4688885c3"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Add Product"/>
+      <bounds
+          x="20"
+          y="30"
+          width="161"
+          height="41"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-99653fdae35542009771f8d85f472c90.xml#id-99653fdae35542009771f8d85f472c90"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
