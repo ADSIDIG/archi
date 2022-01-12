@@ -254,9 +254,9 @@
     </sourceConnections>
     <bounds
         x="850"
-        y="170"
+        y="180"
         width="120"
-        height="51"/>
+        height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-35bc335ac1314c4386a6dadfb74fee42.xml#id-35bc335ac1314c4386a6dadfb74fee42"/>
@@ -281,7 +281,7 @@
         x="850"
         y="240"
         width="120"
-        height="55"/>
+        height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-ef8e34cbd6d04127a393936539008964.xml#id-ef8e34cbd6d04127a393936539008964"/>
@@ -485,7 +485,7 @@
       <bounds
           x="470"
           y="30"
-          width="120"
+          width="131"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -573,6 +573,9 @@
       <features
           name="gradient"
           value="1"/>
+      <features
+          name="labelExpression"
+          value="1.1.2.P5-Customize Product &#xA;&#xA;&lt;&lt;InProcess - Released >>"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e1b51d53bd6f4848b31d0b00d2cfcad9"
@@ -614,9 +617,9 @@
     </sourceConnections>
     <bounds
         x="30"
-        y="190"
+        y="200"
         width="120"
-        height="51"/>
+        height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-89e15ced8cd0462193329d2da623d177.xml#id-89e15ced8cd0462193329d2da623d177"/>

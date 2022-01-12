@@ -210,8 +210,8 @@
         name="labelExpression"
         value=" "/>
     <bounds
-        x="50"
-        y="620"
+        x="30"
+        y="622"
         width="31"
         height="31"/>
     <referencedModel
@@ -280,8 +280,8 @@
           href="CompositionRelationship_id-3fa6c58a14d64999ab17e0e95cc8fa60.xml#id-3fa6c58a14d64999ab17e0e95cc8fa60"/>
     </sourceConnections>
     <bounds
-        x="200"
-        y="190"
+        x="240"
+        y="170"
         width="611"
         height="381"/>
     <children
@@ -498,8 +498,8 @@
           href="ServingRelationship_id-20f317b5cb994088a3d2e80311838832.xml#id-20f317b5cb994088a3d2e80311838832"/>
     </sourceConnections>
     <bounds
-        x="50"
-        y="210"
+        x="90"
+        y="190"
         width="120"
         height="55"/>
     <archimateElement
@@ -524,8 +524,8 @@
           href="ServingRelationship_id-6973c856b7914ec7b8699bdbc834ea99.xml#id-6973c856b7914ec7b8699bdbc834ea99"/>
     </sourceConnections>
     <bounds
-        x="50"
-        y="440"
+        x="90"
+        y="420"
         width="120"
         height="55"/>
     <archimateElement
@@ -549,8 +549,8 @@
           href="AssociationRelationship_id-8d16daed7f2f47b993d3d05c9f4b4d0c.xml#id-8d16daed7f2f47b993d3d05c9f4b4d0c"/>
     </sourceConnections>
     <bounds
-        x="200"
-        y="600"
+        x="240"
+        y="580"
         width="120"
         height="43"/>
     <archimateElement
@@ -574,8 +574,8 @@
           href="AssociationRelationship_id-be98c601ac444c789ecb8b8318bfacd1.xml#id-be98c601ac444c789ecb8b8318bfacd1"/>
     </sourceConnections>
     <bounds
-        x="340"
-        y="600"
+        x="380"
+        y="580"
         width="120"
         height="43"/>
     <archimateElement

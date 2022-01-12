@@ -384,7 +384,7 @@
         textPosition="1">
       <features
           name="gradient"
-          value="1"/>
+          value="2"/>
       <bounds
           x="180"
           y="30"
@@ -393,6 +393,22 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-9ad43ac7cdc844588edb897e28f63a87.xml#id-9ad43ac7cdc844588edb897e28f63a87"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-ec2e00336d5e4fb4bdfbd662b990d841"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="2"/>
+      <bounds
+          x="330"
+          y="30"
+          width="151"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-a10bdb6cca9a443c83248eb69bc54127.xml#id-a10bdb6cca9a443c83248eb69bc54127"/>
     </children>
   </children>
   <children

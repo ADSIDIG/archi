@@ -210,8 +210,8 @@
         name="labelExpression"
         value=" "/>
     <bounds
-        x="50"
-        y="570"
+        x="30"
+        y="550"
         width="31"
         height="31"/>
     <referencedModel
@@ -227,10 +227,10 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="190"
-        y="500"
+        x="470"
+        y="490"
         width="120"
-        height="37"/>
+        height="51"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-f31c5d20098446b991681c96dd7c3859.xml#id-f31c5d20098446b991681c96dd7c3859"/>
@@ -288,9 +288,9 @@
           href="CompositionRelationship_id-b6a4acc7c82147c6b7a9c486a87b09f7.xml#id-b6a4acc7c82147c6b7a9c486a87b09f7"/>
     </sourceConnections>
     <bounds
-        x="200"
+        x="260"
         y="170"
-        width="611"
+        width="471"
         height="291"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -435,10 +435,10 @@
           href="ServingRelationship_id-4a06e934d8254cc199a5772d4e0936a8.xml#id-4a06e934d8254cc199a5772d4e0936a8"/>
     </sourceConnections>
     <bounds
-        x="41"
-        y="180"
+        x="100"
+        y="188"
         width="120"
-        height="55"/>
+        height="45"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-bb1bf33982ea416cb0b432b16fd60bef.xml#id-bb1bf33982ea416cb0b432b16fd60bef"/>
@@ -461,10 +461,10 @@
           href="TriggeringRelationship_id-c6168796b72b4ef0b093b6dcb1f09501.xml#id-c6168796b72b4ef0b093b6dcb1f09501"/>
     </sourceConnections>
     <bounds
-        x="30"
+        x="89"
         y="270"
         width="131"
-        height="55"/>
+        height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-c2ecd00c707348fca414f2483ab5a37e.xml#id-c2ecd00c707348fca414f2483ab5a37e"/>
@@ -487,10 +487,10 @@
           href="AssignmentRelationship_id-8c89dc528f664d5a9c2ced75bb31a45d.xml#id-8c89dc528f664d5a9c2ced75bb31a45d"/>
     </sourceConnections>
     <bounds
-        x="840"
-        y="170"
+        x="780"
+        y="190"
         width="120"
-        height="51"/>
+        height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-35bc335ac1314c4386a6dadfb74fee42.xml#id-35bc335ac1314c4386a6dadfb74fee42"/>
@@ -512,10 +512,10 @@
           href="SpecializationRelationship_id-08ea620487554257b5d314240bfbfa7d.xml#id-08ea620487554257b5d314240bfbfa7d"/>
     </sourceConnections>
     <bounds
-        x="840"
-        y="240"
+        x="780"
+        y="250"
         width="120"
-        height="55"/>
+        height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-ef8e34cbd6d04127a393936539008964.xml#id-ef8e34cbd6d04127a393936539008964"/>
@@ -537,10 +537,10 @@
           href="AssociationRelationship_id-658977b422594f24b258d327b7166cbc.xml#id-658977b422594f24b258d327b7166cbc"/>
     </sourceConnections>
     <bounds
-        x="340"
-        y="500"
+        x="611"
+        y="490"
         width="120"
-        height="41"/>
+        height="51"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-263a8fbf82d64b5982e5fda5531191d5.xml#id-263a8fbf82d64b5982e5fda5531191d5"/>
