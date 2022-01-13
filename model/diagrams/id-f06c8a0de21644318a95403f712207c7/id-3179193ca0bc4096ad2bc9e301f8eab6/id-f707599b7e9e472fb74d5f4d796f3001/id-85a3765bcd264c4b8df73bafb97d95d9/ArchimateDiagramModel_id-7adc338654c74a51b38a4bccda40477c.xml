@@ -704,5 +704,21 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-c271c1e0ac434c218cdd2208055fc5a2.xml#id-c271c1e0ac434c218cdd2208055fc5a2"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-3a941cc954544e0092885c68b4a4e6dd"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          x="280"
+          y="40"
+          width="181"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-153219ba27ab4aca9b8ea0d8487ee119.xml#id-153219ba27ab4aca9b8ea0d8487ee119"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
