@@ -344,8 +344,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-502ea0cdbaad4fc381267b6c6475efa9"
-      fillColor="#feffff"
+      id="id-8a97be529da04e7c91a4dc7ac49bc97e"
+      fillColor="#fcffff"
       imagePath="images/_Ic2hgFnAEeyNC9B01ZQmvA.png"
       imagePosition="9">
     <features
@@ -356,11 +356,11 @@
         value=" "/>
     <bounds
         x="30"
-        y="420"
+        y="440"
         width="31"
         height="31"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-7adc338654c74a51b38a4bccda40477c.xml#id-7adc338654c74a51b38a4bccda40477c"/>
+        href="ArchimateDiagramModel_id-1835cb8f78ba49eba9e47f8d0e26f55b.xml#id-1835cb8f78ba49eba9e47f8d0e26f55b"/>
   </children>
 </archimate:ArchimateDiagramModel>
