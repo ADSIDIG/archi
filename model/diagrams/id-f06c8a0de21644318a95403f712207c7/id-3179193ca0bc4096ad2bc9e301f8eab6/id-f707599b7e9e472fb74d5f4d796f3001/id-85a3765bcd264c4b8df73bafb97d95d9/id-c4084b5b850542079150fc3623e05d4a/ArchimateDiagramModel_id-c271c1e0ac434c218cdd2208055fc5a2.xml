@@ -507,7 +507,7 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="690"
+        x="550"
         y="400"
         width="120"
         height="51"/>
@@ -524,7 +524,7 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="550"
+        x="690"
         y="400"
         width="120"
         height="51"/>
