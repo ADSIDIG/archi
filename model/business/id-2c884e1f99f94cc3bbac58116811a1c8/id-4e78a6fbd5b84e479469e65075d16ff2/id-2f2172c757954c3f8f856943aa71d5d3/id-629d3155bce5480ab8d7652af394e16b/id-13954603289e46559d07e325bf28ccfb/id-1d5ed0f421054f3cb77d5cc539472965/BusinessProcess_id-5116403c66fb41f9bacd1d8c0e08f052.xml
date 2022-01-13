@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.2.P5-Customize Product"
-    id="id-5116403c66fb41f9bacd1d8c0e08f052"/>
+    id="id-5116403c66fb41f9bacd1d8c0e08f052"
+    documentation="This process will allow authorized users to customize a card product for a Financial Institution. Only some parameters are allowed to be modified for the card product after this is already in use."/>

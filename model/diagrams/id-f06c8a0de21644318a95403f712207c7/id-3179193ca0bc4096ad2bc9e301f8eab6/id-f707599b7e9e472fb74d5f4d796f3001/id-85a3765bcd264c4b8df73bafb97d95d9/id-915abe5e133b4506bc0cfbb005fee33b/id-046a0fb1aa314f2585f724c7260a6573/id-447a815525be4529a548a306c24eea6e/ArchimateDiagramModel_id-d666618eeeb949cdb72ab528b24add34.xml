@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BS.1.2 P5 - Customize Product"
-    id="id-d666618eeeb949cdb72ab528b24add34">
+    id="id-d666618eeeb949cdb72ab528b24add34"
+    documentation="Allow to customize a card product for a Financial Institution. Only some parameters are allowed to be modified for the card product after this is already in use.">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-5bb20265577a4b098746c50fa2a8a2e5"
@@ -211,7 +212,7 @@
         value=" "/>
     <bounds
         x="30"
-        y="550"
+        y="560"
         width="31"
         height="31"/>
     <referencedModel
@@ -227,7 +228,7 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="470"
+        x="271"
         y="490"
         width="120"
         height="51"/>

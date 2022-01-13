@@ -370,7 +370,7 @@
           name="gradient"
           value="2"/>
       <bounds
-          x="20"
+          x="170"
           y="30"
           width="141"
           height="31"/>
@@ -386,7 +386,7 @@
           name="gradient"
           value="2"/>
       <bounds
-          x="180"
+          x="20"
           y="30"
           width="131"
           height="31"/>

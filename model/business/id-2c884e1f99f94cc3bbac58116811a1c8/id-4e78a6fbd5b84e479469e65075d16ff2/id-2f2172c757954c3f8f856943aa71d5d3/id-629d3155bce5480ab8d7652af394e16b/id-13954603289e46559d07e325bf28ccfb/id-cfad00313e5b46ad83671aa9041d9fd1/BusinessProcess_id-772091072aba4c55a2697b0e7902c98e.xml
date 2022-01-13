@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.1.2.P4-Add Product"
-    id="id-772091072aba4c55a2697b0e7902c98e"/>
+    id="id-772091072aba4c55a2697b0e7902c98e"
+    documentation="It will allow authorized users to add credit card products to a financial institution, this operation shall start after the Financial Institution is created in the system and or when an existing Financial Institution will start offering a new card product to its customers. The card product should already be defined in the application before performing this operation"/>

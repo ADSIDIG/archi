@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BS.1.2 P6 - Disabled Product"
-    id="id-c67e46f6a48a45c7b4c1ad728b85ad34">
+    id="id-c67e46f6a48a45c7b4c1ad728b85ad34"
+    documentation="Allow to disable card products in a Financial Institution, this means that the card product won’t be offered any more and no new cards can be generated. ">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-3e4d8db07c0c4d11ae52f03f3ada72cf"
@@ -210,8 +211,8 @@
         name="labelExpression"
         value=" "/>
     <bounds
-        x="50"
-        y="570"
+        x="30"
+        y="590"
         width="31"
         height="31"/>
     <referencedModel
@@ -230,7 +231,7 @@
         x="200"
         y="530"
         width="120"
-        height="37"/>
+        height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-f31c5d20098446b991681c96dd7c3859.xml#id-f31c5d20098446b991681c96dd7c3859"/>
@@ -572,7 +573,7 @@
         textPosition="1">
       <features
           name="gradient"
-          value="1"/>
+          value="2"/>
       <features
           name="labelExpression"
           value="1.1.2.P5-Customize Product &#xA;&#xA;&lt;&lt;InProcess - Released >>"/>
@@ -586,9 +587,9 @@
             href="TriggeringRelationship_id-b1f3c137c69e4a99a75e8cfe3b684648.xml#id-b1f3c137c69e4a99a75e8cfe3b684648"/>
       </sourceConnections>
       <bounds
-          x="340"
+          x="320"
           y="170"
-          width="171"
+          width="211"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
