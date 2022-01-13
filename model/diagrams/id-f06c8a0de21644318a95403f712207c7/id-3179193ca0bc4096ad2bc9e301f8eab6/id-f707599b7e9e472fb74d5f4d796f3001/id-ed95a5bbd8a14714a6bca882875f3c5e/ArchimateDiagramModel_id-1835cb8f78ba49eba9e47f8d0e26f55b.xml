@@ -317,6 +317,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-af617a7a5dab434895eac9699ff95150.xml#id-af617a7a5dab434895eac9699ff95150"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-311a1049fdec459b931bf7e6b1088cfa"
+        source="id-60d6465ffb8f4f6ba8993c91c30cd419"
+        target="id-0f2099a1f8304b2584b31cafcf2e5812">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-8011a383b88e486eacf137a7efe2acd2.xml#id-8011a383b88e486eacf137a7efe2acd2"/>
+    </sourceConnections>
     <bounds
         x="80"
         y="160"
@@ -406,6 +415,23 @@
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-2fbf14f06dfd45b7af7200e71b0a27b2.xml#id-2fbf14f06dfd45b7af7200e71b0a27b2"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-0f2099a1f8304b2584b31cafcf2e5812"
+        targetConnections="id-311a1049fdec459b931bf7e6b1088cfa"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          x="490"
+          y="100"
+          width="151"
+          height="41"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-8d0946574c994f47afcfef32f95d5335.xml#id-8d0946574c994f47afcfef32f95d5335"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessService"
