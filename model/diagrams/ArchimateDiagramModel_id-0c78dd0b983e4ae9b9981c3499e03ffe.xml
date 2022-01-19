@@ -134,7 +134,7 @@
         value="2"/>
     <features
         name="labelExpression"
-        value="MVP  -Minimum Viable Product-"/>
+        value="MVP  &#xA;Minimum Viable Product"/>
     <bounds
         x="30"
         y="450"
@@ -148,8 +148,8 @@
           name="gradient"
           value="1"/>
       <bounds
-          x="20"
-          y="30"
+          x="24"
+          y="48"
           width="861"
           height="41"/>
       <referencedModel
