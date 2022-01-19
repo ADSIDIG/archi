@@ -10,7 +10,7 @@
       font="1|Montserrat|18.0|1|COCOA|1|Montserrat-Bold"
       content="MOCA - CMS"
       textPosition="1"
-      borderType="1">
+      borderType="2">
     <features
         name="gradient"
         value="1"/>
