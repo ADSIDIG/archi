@@ -35,7 +35,7 @@
         x="30"
         y="130"
         width="911"
-        height="91"/>
+        height="141"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-2c9cbc7c24344430b9e9d22831d5ea2a"
@@ -52,6 +52,22 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-c60bdc77352e4fc0be5d0b51752fe8b5.xml#id-c60bdc77352e4fc0be5d0b51752fe8b5"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-ce68d2ef4f2d4337a0309437b6e8d53f"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          x="20"
+          y="80"
+          width="861"
+          height="41"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-0c3ec858933f497284a3a6715db60848.xml#id-0c3ec858933f497284a3a6715db60848"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-32ebd80ac085436b87d0478009cf3303.xml#id-32ebd80ac085436b87d0478009cf3303"/>
@@ -66,7 +82,7 @@
         value="2"/>
     <bounds
         x="30"
-        y="240"
+        y="290"
         width="911"
         height="141"/>
     <children
