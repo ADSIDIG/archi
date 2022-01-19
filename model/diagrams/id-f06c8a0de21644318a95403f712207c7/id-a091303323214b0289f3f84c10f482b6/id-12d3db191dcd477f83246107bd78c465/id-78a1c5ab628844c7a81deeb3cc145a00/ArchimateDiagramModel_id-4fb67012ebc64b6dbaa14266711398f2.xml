@@ -488,4 +488,25 @@
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-fa3c13c7d7a84eb7a98504d49f5d2280.xml#id-fa3c13c7d7a84eb7a98504d49f5d2280"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-a8efb6f1bca04cf4a6a7f2565cc23bb0"
+      fillColor="#feffff"
+      imagePath="images/_Ic2hgFnAEeyNC9B01ZQmvA.png"
+      imagePosition="9">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="30"
+        y="760"
+        width="31"
+        height="31"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-5d74422e6df64b71bbbfab62bf1c0fff.xml#id-5d74422e6df64b71bbbfab62bf1c0fff"/>
+  </children>
 </archimate:ArchimateDiagramModel>
