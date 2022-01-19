@@ -124,4 +124,40 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-60029e9e731e47d2977666f55190939e.xml#id-60029e9e731e47d2977666f55190939e"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-eb8d9dab8ec1469bb8667ce4d27c6999"
+      fillColor="#fefddf"
+      type="1">
+    <features
+        name="gradient"
+        value="2"/>
+    <features
+        name="labelExpression"
+        value="MVP  -Minimum Viable Product-"/>
+    <bounds
+        x="30"
+        y="450"
+        width="911"
+        height="101"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-0ef76ba512f24e009a85cc6fa69b582b"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          x="20"
+          y="30"
+          width="861"
+          height="41"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-4b0c659147d5495dae85673506b91f3a.xml#id-4b0c659147d5495dae85673506b91f3a"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-8f5edbc80aca4da18fd3dc746c7a3e36.xml#id-8f5edbc80aca4da18fd3dc746c7a3e36"/>
+  </children>
 </archimate:ArchimateDiagramModel>
