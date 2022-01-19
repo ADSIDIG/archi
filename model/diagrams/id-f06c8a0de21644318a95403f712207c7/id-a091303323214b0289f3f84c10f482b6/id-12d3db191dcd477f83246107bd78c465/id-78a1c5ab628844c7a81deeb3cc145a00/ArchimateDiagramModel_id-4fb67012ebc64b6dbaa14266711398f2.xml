@@ -20,9 +20,9 @@
           href="AccessRelationship_id-68b3aa594d3d4b2a98edf338ff81fd7d.xml#id-68b3aa594d3d4b2a98edf338ff81fd7d"/>
     </sourceConnections>
     <bounds
-        x="220"
+        x="210"
         y="190"
-        width="621"
+        width="631"
         height="481"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -47,9 +47,9 @@
     </sourceConnections>
     <bounds
         x="40"
-        y="190"
+        y="200"
         width="151"
-        height="51"/>
+        height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-e483e2aafdfb488f8a7e64c4dc586e4e.xml#id-e483e2aafdfb488f8a7e64c4dc586e4e"/>
@@ -338,7 +338,7 @@
     <bounds
         x="871"
         y="350"
-        width="120"
+        width="141"
         height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -388,7 +388,7 @@
     <bounds
         x="871"
         y="300"
-        width="120"
+        width="141"
         height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
