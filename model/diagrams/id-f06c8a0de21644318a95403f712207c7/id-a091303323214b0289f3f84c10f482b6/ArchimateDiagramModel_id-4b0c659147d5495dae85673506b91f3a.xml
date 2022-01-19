@@ -260,7 +260,7 @@
         textPosition="1">
       <features
           name="gradient"
-          value="1"/>
+          value="2"/>
       <bounds
           x="20"
           y="50"
@@ -277,7 +277,7 @@
         textPosition="1">
       <features
           name="gradient"
-          value="1"/>
+          value="2"/>
       <bounds
           x="250"
           y="50"
@@ -294,7 +294,7 @@
         textPosition="1">
       <features
           name="gradient"
-          value="1"/>
+          value="2"/>
       <bounds
           x="460"
           y="50"
@@ -311,7 +311,7 @@
         textPosition="1">
       <features
           name="gradient"
-          value="1"/>
+          value="2"/>
       <bounds
           x="680"
           y="50"
@@ -328,7 +328,7 @@
         textPosition="1">
       <features
           name="gradient"
-          value="1"/>
+          value="2"/>
       <bounds
           x="290"
           y="140"
