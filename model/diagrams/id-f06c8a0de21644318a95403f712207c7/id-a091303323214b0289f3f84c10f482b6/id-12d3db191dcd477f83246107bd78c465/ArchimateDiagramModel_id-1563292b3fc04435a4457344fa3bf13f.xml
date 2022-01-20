@@ -566,7 +566,7 @@
         height="81"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-14972786a2bd4c2995914cb91a6d6746"
+        id="id-0bdb2bc5c5ee4449b49403742631e4d8"
         textPosition="1">
       <features
           name="gradient"
@@ -578,7 +578,7 @@
           height="31"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-153219ba27ab4aca9b8ea0d8487ee119.xml#id-153219ba27ab4aca9b8ea0d8487ee119"/>
+          href="ArchimateDiagramModel_id-f6baa922337848dda528cdce95e6083e.xml#id-f6baa922337848dda528cdce95e6083e"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
