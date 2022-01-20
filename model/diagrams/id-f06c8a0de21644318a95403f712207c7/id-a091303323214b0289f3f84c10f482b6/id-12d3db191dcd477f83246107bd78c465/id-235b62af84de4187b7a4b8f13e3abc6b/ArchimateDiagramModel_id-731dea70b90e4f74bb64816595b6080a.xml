@@ -211,7 +211,7 @@
         value=" "/>
     <bounds
         x="30"
-        y="1220"
+        y="830"
         width="31"
         height="31"/>
     <referencedModel
@@ -223,15 +223,15 @@
       id="id-eb50c785c5004b9f9ec01e7a6715fc02"
       textAlignment="1"
       borderType="2"
-      imagePath="images/_otXIIHoEEeyGPer2w7IWcA.png"
+      imagePath="images/_wRYbwHobEeyEP7QbQXZazQ.png"
       imagePosition="9">
     <features
         name="gradient"
         value="1"/>
     <bounds
-        x="100"
+        x="50"
         y="150"
-        width="861"
-        height="1061"/>
+        width="921"
+        height="661"/>
   </children>
 </archimate:ArchimateDiagramModel>
