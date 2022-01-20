@@ -212,7 +212,7 @@
         value=" "/>
     <bounds
         x="30"
-        y="410"
+        y="340"
         width="31"
         height="31"/>
     <referencedModel
@@ -323,7 +323,7 @@
         value="1"/>
     <bounds
         x="80"
-        y="410"
+        y="340"
         width="701"
         height="91"/>
     <children
