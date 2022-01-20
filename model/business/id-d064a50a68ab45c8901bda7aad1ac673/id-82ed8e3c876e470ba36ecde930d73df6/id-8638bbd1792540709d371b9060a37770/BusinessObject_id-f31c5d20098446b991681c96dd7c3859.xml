@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.3 Issuer Products"
-    id="id-f31c5d20098446b991681c96dd7c3859"/>
+    id="id-f31c5d20098446b991681c96dd7c3859"
+    documentation="Product Offered by the Selected Financial Intitution"/>
