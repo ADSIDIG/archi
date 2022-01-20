@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Settings"
+    name="Card Application Settings"
     id="id-f6baa922337848dda528cdce95e6083e"
     documentation="Settings Business Objects used to manage the Card Applications.">
   <children

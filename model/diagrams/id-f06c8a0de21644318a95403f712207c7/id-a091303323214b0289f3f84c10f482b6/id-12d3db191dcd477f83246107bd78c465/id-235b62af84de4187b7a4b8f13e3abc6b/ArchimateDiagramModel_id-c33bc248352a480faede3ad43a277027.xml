@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Settings Application ER"
-    id="id-c33bc248352a480faede3ad43a277027">
+    name="Card Application Settings  ER"
+    id="id-c33bc248352a480faede3ad43a277027"
+    documentation="ER For Card Application Settings">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-50b436db3e43424889401d600974aa28"
