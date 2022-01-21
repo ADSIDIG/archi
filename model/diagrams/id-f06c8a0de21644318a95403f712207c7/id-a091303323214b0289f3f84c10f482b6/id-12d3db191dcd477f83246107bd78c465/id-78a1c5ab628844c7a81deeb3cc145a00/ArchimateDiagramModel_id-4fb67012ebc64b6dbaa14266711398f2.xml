@@ -489,8 +489,38 @@
         href="BusinessEvent_id-fa3c13c7d7a84eb7a98504d49f5d2280.xml#id-fa3c13c7d7a84eb7a98504d49f5d2280"/>
   </children>
   <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-3cd1a0fdd14445f3a5237cb4f2926b16"
+      name="Business Objects"
+      textAlignment="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="80"
+        y="760"
+        width="861"
+        height="81"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-70298af0bf68443197e2980b0c8e5bcd"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          x="10"
+          y="30"
+          width="191"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-1e0e35e0bd8d4dd480ae6c8fabf933a0.xml#id-1e0e35e0bd8d4dd480ae6c8fabf933a0"/>
+    </children>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-a8efb6f1bca04cf4a6a7f2565cc23bb0"
+      id="id-626a3df1d94a48bf8beadb6bf8f769d4"
       fillColor="#feffff"
       imagePath="images/_Ic2hgFnAEeyNC9B01ZQmvA.png"
       imagePosition="9">
@@ -503,40 +533,10 @@
     <bounds
         x="30"
         y="760"
-        width="31"
+        width="32"
         height="31"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-5d74422e6df64b71bbbfab62bf1c0fff.xml#id-5d74422e6df64b71bbbfab62bf1c0fff"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-3cd1a0fdd14445f3a5237cb4f2926b16"
-      name="Business Objects"
-      textAlignment="1">
-    <features
-        name="gradient"
-        value="1"/>
-    <bounds
-        x="80"
-        y="760"
-        width="861"
-        height="101"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-70298af0bf68443197e2980b0c8e5bcd"
-        textPosition="1">
-      <features
-          name="gradient"
-          value="1"/>
-      <bounds
-          x="10"
-          y="40"
-          width="191"
-          height="31"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-1e0e35e0bd8d4dd480ae6c8fabf933a0.xml#id-1e0e35e0bd8d4dd480ae6c8fabf933a0"/>
-    </children>
+        href="ArchimateDiagramModel_id-1563292b3fc04435a4457344fa3bf13f.xml#id-1563292b3fc04435a4457344fa3bf13f"/>
   </children>
 </archimate:ArchimateDiagramModel>
