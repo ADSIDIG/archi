@@ -143,7 +143,8 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-0ef76ba512f24e009a85cc6fa69b582b"
-        textPosition="1">
+        textPosition="1"
+        imagePosition="5">
       <features
           name="gradient"
           value="1"/>

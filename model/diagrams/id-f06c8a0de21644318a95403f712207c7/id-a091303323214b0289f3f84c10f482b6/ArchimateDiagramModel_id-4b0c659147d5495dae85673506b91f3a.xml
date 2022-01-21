@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Minimum Viable Product"
-    id="id-4b0c659147d5495dae85673506b91f3a">
+    id="id-4b0c659147d5495dae85673506b91f3a"
+    documentation="MOCA CMS Minimun Viable Product">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-cab8383c2eb94467a303cd1150d62ba9"
