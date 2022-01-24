@@ -368,25 +368,6 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-9ad43ac7cdc844588edb897e28f63a87.xml#id-9ad43ac7cdc844588edb897e28f63a87"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-8d95d0078b324d519c6718380debc7ba"
-        textPosition="1">
-      <features
-          name="gradient"
-          value="1"/>
-      <features
-          name="labelExpression"
-          value="FI Products"/>
-      <bounds
-          x="330"
-          y="30"
-          width="141"
-          height="31"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-5688011ee98e4d688c2f4c730d773601.xml#id-5688011ee98e4d688c2f4c730d773601"/>
-    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
