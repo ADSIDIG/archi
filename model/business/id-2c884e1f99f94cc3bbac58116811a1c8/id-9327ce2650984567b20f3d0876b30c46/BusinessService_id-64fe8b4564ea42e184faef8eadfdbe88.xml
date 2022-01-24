@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.2 Card Application Approval"
-    id="id-64fe8b4564ea42e184faef8eadfdbe88"/>
+    id="id-64fe8b4564ea42e184faef8eadfdbe88"
+    documentation="This is a functionality that will allow the system to decide if a credit card will be granted to a customer or if it will be declined. This decision will be made based on KYC verification, scoring received from the credit bureau, analysis of the data provided in the data capture process, and other parameters defined by the financial institution. In the case a credit card is declined the financial institution should have the possibility to review the card applications and decide if the customers can get a different card product or the same card product with different conditions."/>

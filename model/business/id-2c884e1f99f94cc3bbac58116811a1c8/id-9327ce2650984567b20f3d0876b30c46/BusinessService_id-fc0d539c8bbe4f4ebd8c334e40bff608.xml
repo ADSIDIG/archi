@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.3 Card Issuance"
-    id="id-fc0d539c8bbe4f4ebd8c334e40bff608"/>
+    id="id-fc0d539c8bbe4f4ebd8c334e40bff608"
+    documentation="When the credit card is approved the next step is to create in the system the credit card contract, accounts and card related to it. This process will include the card data generation to create the virtual card or the physical card."/>

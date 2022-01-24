@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.1 Card Application Request"
-    id="id-5bf53390513f4279a1b9208594152ace"/>
+    id="id-5bf53390513f4279a1b9208594152ace"
+    documentation="Module designed to capture all required information to create a card application and register it in the system. The card application can be fulfilled online by a person or a batch containing multiple applications can be uploaded in the system by an operations user. Either way, there will a process to validate the data entered, register it in the system and create a card application."/>

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1. Card Application Processing"
-    id="id-5d74422e6df64b71bbbfab62bf1c0fff">
+    id="id-5d74422e6df64b71bbbfab62bf1c0fff"
+    documentation="Describes the different ways how a credit card can be requested">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-0bd9598ea66343ff914d789b2fea9b4b"

@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2. Card application Processing"
-    id="id-063a8bce910e4fb29438ce6de61dc068"/>
+    id="id-063a8bce910e4fb29438ce6de61dc068"
+    documentation="Describes the different ways how a credit card can be requested by a customer or by an institution on behalf of the customer, the requirements to apply to a credit card, the validations that will be performed during the process and how the card will be issued and delivered once it is approved."/>
