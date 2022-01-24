@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1.2.1 Product General Settings"
-    id="id-d02f0f7b7fea495fa1800e6638ae985b"/>
+    id="id-d02f0f7b7fea495fa1800e6638ae985b"
+    documentation="MOCA Credit Card will be a platform with several components such as card product management, card issuing, card authorization, card fee, charge and interest management, cardholder statement, card life cycle management, clearing and settlement, dispute, and chargeback management."/>
