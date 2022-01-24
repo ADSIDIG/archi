@@ -204,7 +204,7 @@
       textAlignment="1"
       content="Business Objects Attibutes"
       borderType="2"
-      imagePath="images/_kw_iMHJOEeysAcSmssTKQw.png"
+      imagePath="images/_jHMncH1SEeyzL68xqf7WIA.png"
       imagePosition="9">
     <features
         name="gradient"
@@ -213,10 +213,10 @@
         name="labelExpression"
         value=" "/>
     <bounds
-        x="290"
+        x="30"
         y="160"
-        width="421"
-        height="601"/>
+        width="961"
+        height="611"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
