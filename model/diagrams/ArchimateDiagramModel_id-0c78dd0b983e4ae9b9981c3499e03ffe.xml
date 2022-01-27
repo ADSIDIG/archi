@@ -139,7 +139,7 @@
         x="30"
         y="450"
         width="911"
-        height="101"/>
+        height="221"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-0ef76ba512f24e009a85cc6fa69b582b"
@@ -148,6 +148,9 @@
       <features
           name="gradient"
           value="1"/>
+      <features
+          name="labelExpression"
+          value="Business Services"/>
       <bounds
           x="24"
           y="48"
@@ -156,6 +159,44 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-4b0c659147d5495dae85673506b91f3a.xml#id-4b0c659147d5495dae85673506b91f3a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-504bdc602c594a34b620237a0a48de5d"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Business Objects"/>
+      <bounds
+          x="24"
+          y="150"
+          width="861"
+          height="41"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-7b7a92af172049108dff57eff69798a8.xml#id-7b7a92af172049108dff57eff69798a8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-14f0069cbef8432697595c0f79454860"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Business Process"/>
+      <bounds
+          x="24"
+          y="100"
+          width="861"
+          height="41"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-01a007c6e14a4e349d621d1c0b0dfc4a.xml#id-01a007c6e14a4e349d621d1c0b0dfc4a"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
