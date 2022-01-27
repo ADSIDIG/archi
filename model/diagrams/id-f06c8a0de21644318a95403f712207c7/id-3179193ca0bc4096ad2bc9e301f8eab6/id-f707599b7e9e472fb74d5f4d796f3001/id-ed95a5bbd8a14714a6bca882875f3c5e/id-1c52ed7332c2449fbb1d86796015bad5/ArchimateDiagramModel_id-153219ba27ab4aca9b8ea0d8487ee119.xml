@@ -287,9 +287,9 @@
     </sourceConnections>
     <bounds
         x="120"
-        y="180"
+        y="160"
         width="771"
-        height="191"/>
+        height="201"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-29b1c74071ce4c7a8fef2f7cd2929508"

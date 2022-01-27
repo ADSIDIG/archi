@@ -176,9 +176,9 @@
         value=" "/>
     <bounds
         x="30"
-        y="40"
-        width="141"
-        height="61"/>
+        y="35"
+        width="151"
+        height="71"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

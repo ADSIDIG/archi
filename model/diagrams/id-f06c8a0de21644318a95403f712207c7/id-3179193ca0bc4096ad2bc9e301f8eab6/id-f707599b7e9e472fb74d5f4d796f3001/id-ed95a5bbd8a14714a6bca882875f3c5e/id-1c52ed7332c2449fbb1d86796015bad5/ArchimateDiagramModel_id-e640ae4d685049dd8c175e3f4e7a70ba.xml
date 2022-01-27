@@ -223,15 +223,15 @@
       id="id-92a6f3991512499283edd5be9abea049"
       textAlignment="1"
       borderType="2"
-      imagePath="images/_FVknMH1REeyzL68xqf7WIA.png"
+      imagePath="images/_P-pZIH-KEeyTQ_enk2YMEQ.png"
       imagePosition="9">
     <features
         name="gradient"
         value="1"/>
     <bounds
-        x="60"
+        x="90"
         y="160"
-        width="891"
-        height="601"/>
+        width="731"
+        height="621"/>
   </children>
 </archimate:ArchimateDiagramModel>

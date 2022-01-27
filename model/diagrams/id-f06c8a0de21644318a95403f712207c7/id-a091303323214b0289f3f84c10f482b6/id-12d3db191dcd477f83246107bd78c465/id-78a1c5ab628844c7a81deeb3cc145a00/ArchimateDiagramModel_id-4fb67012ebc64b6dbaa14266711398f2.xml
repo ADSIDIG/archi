@@ -453,9 +453,9 @@
           href="ServingRelationship_id-177ba870e2e349bb9f20559dd676fead.xml#id-177ba870e2e349bb9f20559dd676fead"/>
     </sourceConnections>
     <bounds
-        x="51"
+        x="20"
         y="390"
-        width="130"
+        width="161"
         height="31"/>
     <archimateElement
         xsi:type="archimate:BusinessInterface"
