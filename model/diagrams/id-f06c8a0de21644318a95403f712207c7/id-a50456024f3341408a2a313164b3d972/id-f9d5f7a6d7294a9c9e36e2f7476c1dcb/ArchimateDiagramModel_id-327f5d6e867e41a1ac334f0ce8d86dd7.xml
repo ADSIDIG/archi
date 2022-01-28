@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BO.1. Financial Institution Settings States"
-    id="id-327f5d6e867e41a1ac334f0ce8d86dd7">
+    id="id-327f5d6e867e41a1ac334f0ce8d86dd7"
+    documentation="Financial Institution States">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-35b7f7d4e9974508aee5350f8247122c"

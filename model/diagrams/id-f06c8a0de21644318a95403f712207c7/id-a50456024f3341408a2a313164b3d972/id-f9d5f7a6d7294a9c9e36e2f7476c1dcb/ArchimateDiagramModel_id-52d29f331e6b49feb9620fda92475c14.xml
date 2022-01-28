@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BO.4. Card Application States"
-    id="id-52d29f331e6b49feb9620fda92475c14">
+    id="id-52d29f331e6b49feb9620fda92475c14"
+    documentation="Card Application States">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-11b5f1bf4c534e198dc0003d286297dc"

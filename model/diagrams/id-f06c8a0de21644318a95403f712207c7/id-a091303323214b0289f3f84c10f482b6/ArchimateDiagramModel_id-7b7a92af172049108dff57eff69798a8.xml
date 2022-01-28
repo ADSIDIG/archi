@@ -20,7 +20,7 @@
         x="190"
         y="30"
         width="581"
-        height="81"/>
+        height="41"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -147,7 +147,7 @@
         value=" "/>
     <bounds
         x="30"
-        y="520"
+        y="430"
         width="31"
         height="31"/>
     <referencedModel
@@ -188,5 +188,24 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-187d6701b59445b3ba517bf3dd7b7b5c.xml#id-187d6701b59445b3ba517bf3dd7b7b5c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-41d5dfe939ea4c74bd906762740786bf"
+      font="1|Montserrat|13.0|0|COCOA|1|Montserrat-Regular"
+      content="MOCA - CMS"
+      textPosition="1"
+      borderType="2">
+    <features
+        name="gradient"
+        value="1"/>
+    <features
+        name="labelExpression"
+        value="Business Objects"/>
+    <bounds
+        x="190"
+        y="70"
+        width="581"
+        height="41"/>
   </children>
 </archimate:ArchimateDiagramModel>

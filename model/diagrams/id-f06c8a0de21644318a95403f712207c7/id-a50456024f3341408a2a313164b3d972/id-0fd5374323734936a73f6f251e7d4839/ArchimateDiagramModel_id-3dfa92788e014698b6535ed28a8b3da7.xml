@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BO.4. Card Application Properties"
-    id="id-3dfa92788e014698b6535ed28a8b3da7">
+    id="id-3dfa92788e014698b6535ed28a8b3da7"
+    documentation="Card Application Business Objects  properties">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-d5e0e77124d346b7b4d87b5c2814968f"

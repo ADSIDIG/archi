@@ -131,7 +131,7 @@
       type="1">
     <features
         name="gradient"
-        value="2"/>
+        value="1"/>
     <features
         name="labelExpression"
         value="MVP  &#xA;Minimum Viable Product"/>
@@ -188,7 +188,7 @@
           value="1"/>
       <features
           name="labelExpression"
-          value="Business Process"/>
+          value="Business Processes"/>
       <bounds
           x="24"
           y="100"

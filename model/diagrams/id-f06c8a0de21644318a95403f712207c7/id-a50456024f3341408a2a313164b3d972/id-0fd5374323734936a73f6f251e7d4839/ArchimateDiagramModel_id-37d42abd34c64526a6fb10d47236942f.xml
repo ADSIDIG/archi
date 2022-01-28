@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BO.3. Product Settings Properties"
-    id="id-37d42abd34c64526a6fb10d47236942f">
+    id="id-37d42abd34c64526a6fb10d47236942f"
+    documentation="Product Settings Object Properties">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-88a6541a698d44bba828bdb2a7d969d0"

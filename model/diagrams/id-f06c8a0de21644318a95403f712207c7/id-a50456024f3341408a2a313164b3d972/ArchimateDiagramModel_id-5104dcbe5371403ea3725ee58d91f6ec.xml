@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BO.2. Financial Institution Product Settings"
     id="id-5104dcbe5371403ea3725ee58d91f6ec"
-    documentation="Product Settings Business Objects ">
+    documentation="Financial Institution Products Settings Business Objects ">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-3d49a4ac4e7e4c0e84d6b4af0ae1764a"
