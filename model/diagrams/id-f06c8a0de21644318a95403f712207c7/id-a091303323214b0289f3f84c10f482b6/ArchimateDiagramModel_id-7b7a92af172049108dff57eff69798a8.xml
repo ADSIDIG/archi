@@ -84,7 +84,7 @@
           value="Financial Institution "/>
       <bounds
           x="20"
-          y="30"
+          y="40"
           width="871"
           height="31"/>
       <referencedModel
@@ -103,7 +103,7 @@
           value="Product Settings"/>
       <bounds
           x="20"
-          y="70"
+          y="80"
           width="871"
           height="31"/>
       <referencedModel
@@ -122,7 +122,7 @@
           value="Financial Institution Product Settings"/>
       <bounds
           x="20"
-          y="110"
+          y="120"
           width="871"
           height="31"/>
       <referencedModel
@@ -165,7 +165,7 @@
         x="30"
         y="330"
         width="911"
-        height="81"/>
+        height="91"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-c37f1e3ec1804dbaa85a217304141166"
@@ -178,7 +178,7 @@
           value="Card Application"/>
       <bounds
           x="20"
-          y="30"
+          y="40"
           width="871"
           height="31"/>
       <referencedModel
