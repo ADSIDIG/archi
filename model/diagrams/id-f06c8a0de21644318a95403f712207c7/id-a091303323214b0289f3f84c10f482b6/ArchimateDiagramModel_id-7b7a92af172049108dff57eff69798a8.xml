@@ -71,7 +71,7 @@
         x="30"
         y="130"
         width="911"
-        height="171"/>
+        height="211"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-8b03b8526f6748df91f098ee63e003e8"
@@ -129,6 +129,25 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-5104dcbe5371403ea3725ee58d91f6ec.xml#id-5104dcbe5371403ea3725ee58d91f6ec"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-0d9b94cc3b3f4af7b1f2900d573ee8c8"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Tariff Model"/>
+      <bounds
+          x="20"
+          y="160"
+          width="871"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-253ecf8d27b3456a9cb703ee3f252b5a.xml#id-253ecf8d27b3456a9cb703ee3f252b5a"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-2e9a79b0e9fb4abc9265b3d616759560.xml#id-2e9a79b0e9fb4abc9265b3d616759560"/>
@@ -147,7 +166,7 @@
         value=" "/>
     <bounds
         x="30"
-        y="470"
+        y="510"
         width="31"
         height="31"/>
     <referencedModel
@@ -163,7 +182,7 @@
         value="1"/>
     <bounds
         x="30"
-        y="330"
+        y="360"
         width="911"
         height="131"/>
     <children
