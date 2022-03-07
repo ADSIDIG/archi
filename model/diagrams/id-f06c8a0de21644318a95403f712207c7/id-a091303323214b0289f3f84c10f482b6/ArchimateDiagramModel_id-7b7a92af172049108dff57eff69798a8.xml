@@ -71,7 +71,7 @@
         x="30"
         y="130"
         width="911"
-        height="291"/>
+        height="251"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-8b03b8526f6748df91f098ee63e003e8"
@@ -185,7 +185,7 @@
         value=" "/>
     <bounds
         x="30"
-        y="590"
+        y="630"
         width="31"
         height="31"/>
     <referencedModel
@@ -201,7 +201,7 @@
         value="1"/>
     <bounds
         x="30"
-        y="440"
+        y="400"
         width="911"
         height="131"/>
     <children
@@ -264,5 +264,40 @@
         y="70"
         width="581"
         height="41"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e7659826fdcc46f1a0680a5d65b6f50b"
+      textAlignment="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="30"
+        y="550"
+        width="911"
+        height="71"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-077b1a169dfd4a85b966959dfaf594cf"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <features
+          name="labelExpression"
+          value="Card Account"/>
+      <bounds
+          x="20"
+          y="30"
+          width="871"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-b7b1f205d97c490ea22149c41bfe7b3c.xml#id-b7b1f205d97c490ea22149c41bfe7b3c"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-0eedb39d879d4efe998caedbc6625a7f.xml#id-0eedb39d879d4efe998caedbc6625a7f"/>
   </children>
 </archimate:ArchimateDiagramModel>
